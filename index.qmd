@@ -1,0 +1,197 @@
+---
+title: "Research and Design by Jamie Pantazi Esmond"
+format: 
+  html: 
+    toc: true
+    theme: custom.scss
+    fig-cap-location: "bottom"
+    tbl-cap-location: "top"
+    fig-align: "center"
+    title-block-banner: true
+    title-block-banner-color: "#744FC6"
+    template-partials:
+      - "_layouts/sidebar.html"
+---
+
+# Research
+
+<div style="font-size:20px; text-align: justify">
+
+Welcome to my portfolio of research and graphic design. My research goals have been focused on exposing systemic racism as feature, not a bug, in American societies from the first settler-colonialist to the present day. Patriarchal white supremacy is baked into the foundation of the systems that govern our lives; from criminal justice to social services, racist and sexist biases are inherent. In order to break down these oppressive structures, they must first be identified and understood.
+
+</div>
+
+## Abolition
+
+<div style="float:left; margin-right: 10px;">
+  [![](abolition/figures/CrisisBlue.png){width=200 fig-alt="A map of Maryland showing imprisonment rate and distance to inpatient mental health facilities with crisis intervention."}](abolition/prisons_mhf.html)
+</div>
+
+<div style="font-size:23px">
+
+[Prisoners of a Broken System](abolition/prisons_mhf.html): Investigating the Relationship Between High Imprisonment Rates and Access to Inpatient Mental Health Care in Maryland - A Bayesian Analysis (Janurary 2024) **in progress**
+
+</div>
+
+<br>
+
+<div style="float:left; margin-right: 10px;">
+  [![](abolition/figures/mapcropped.png){width=200 fig-alt=""}](Bail_Impact.html)
+</div>
+
+<div style="font-size:23px">
+
+[Pleading Change](Bail_Impact.html): Unraveling the Impact of Bail Reform on Guilty Pleas in Harris County - An Ex-Post Policy Analysis (December 2023)
+
+</div>
+
+<br><br>
+
+<div style="float:left; margin-right: 10px;">
+  [![](abolition/figures/ImpactTheroy2.png){width=200 fig-alt="A diagram of bail reform influencing length of detention, reduced plea deas, and increased equality in the justice system."}](abolition/bail.html)
+</div>
+
+<div style="font-size:23px">
+
+[Equal Justice Under the Law](abolition/bail.html): Examining the Impacts of Bail Reform in Harris County - A Proposed Study Outlined (May 2023)
+
+</div>
+
+<br>
+
+<div style="float:left; margin-right: 10px;">
+  [![](abolition/figures/price.png){width=200 fig-alt="ENTER ALT TEXT!"}](abolition/Bail_Reform.html)
+</div>
+
+
+<div style="font-size:23px">
+
+[The Price of Pretrial Detention](abolition/Bail_Reform.html): Avoidable Impacts of Pretrial Detention on Families and Children - A Research Proposal (May 2023)
+
+</div>
+
+<br>
+
+<div style="float:left; margin-right: 10px;">
+  [![](abolition/figures/prisons.png){width=200 fig-alt="A map of Georgia showing the capacity and location of prisons, color coded to indicate type of facility."}](abolition/prisontowns.html)
+</div>
+
+
+<div style="font-size:23px">
+
+[Empty Promises of Prosperity](abolition/prisontowns.html): Prison Towns and Quality of Life in Rural Georgia - A Spatial Analysis (November 2023)
+
+</div>
+
+<br><br><br>
+
+## Immigration
+
+<div style="float:left; margin-right: 10px;">
+  [![](immigration/figures/detention.png){width=150 fig-alt="An image of a detention facility and the text IMPACTS: Immigrant detention tears families apart, denies immigrants access to legal counsel and necessary healthcare, as well as drains the economy for a profit. Another image of protesters with signs and the text SOLUTIONS: Community based alternatives are more humane, more effective, and less costly thandetention."}](immigration/detention.html)
+</div>
+
+<div style="font-size:23px">
+
+[Ending Immigrant Detention in the United States](immigration/detention.html) - A Policy Brief (April 2022)
+
+</div>
+
+<br><br><br>
+
+<div style="float:left; margin-right: 10px;">
+  [![](immigration/figures/karnes.png){width=150 fig-alt="An image of the sky with flying birds."}](https://www.raicestexas.org/2022/07/20/karnes-family-immigration-prison-as-an-adult-immigration-prison/)
+</div>
+
+<div style="font-size:23px">
+
+[Karnes Family Immigration Prison as an Adult Immigration Prison](https://www.raicestexas.org/2022/07/20/karnes-family-immigration-prison-as-an-adult-immigration-prison/): Why Expedited Removal and Immigrant Detention Must End (July 2022)
+
+</div>
+
+<br>
+
+## History
+
+<div style="float:left; margin-right: 10px;">
+  [![](history/figures/manifest.jpg){width=150 fig-alt="America Progress by John Gast (1872)"}](history/badmen.html)
+</div>
+
+
+<div style="font-size:23px">
+
+[Constructing Bad Men](history/badmen.html): Literary Myths and Protectionist Masculinity (December 2018)
+
+
+</div>
+
+<br><br>
+
+<div style="float:left; margin-right: 10px;">
+  [![](history/figures/elias.png){width=150 fig-alt="Portrait of Elias Boudinot with a Cherokee Phoenix newspaper backdrop."}](history/elias.html)
+</div>
+
+
+<div style="font-size:23px">
+
+[Elias Boudinot](history/elias.html): Editor in Assimilation (May 2018)
+
+</div>
+
+<br><br><br><br>
+
+<div style="float:left; margin-right: 10px;">
+  [![](history/figures/borgia.jpg){width=150 fig-alt="An image from the Codex Borgia showing a deity and human exchanging blood."}](history/identity.html)
+</div>
+
+<div style="font-size:23px">
+
+[Indigenous Identity Outside the National Narrative](history/identity.html): An Analysis of Indigenous Resilience in Mexico (December 2017)
+
+</div>
+
+<br><br>
+
+# Design
+
+## Maps
+
+[![Click to view full report.](abolition/figures/map.png){fig-alt=""}](Bail_Impact.html)
+
+[![Click to view full report.](abolition/figures/CrisisBlue.png){fig-alt="A map of Maryland showing imprisonment rate and mental health facilities."}](abolition/prisons_mhf.html)
+ 
+[![Click to view full report.](abolition/figures/overview.png){fig-alt="A map of Georgia showing the capacity and location of prisons, color coded to indicate type of facility."}](abolition/prisontowns.html)
+
+## Dashboards
+
+[![Click to view full report.](abolition/figures/prisontowns_dashboard.png){fig-alt=""}](abolition/prisontowns.html)
+
+[![Click to view full report.](abolition/figures/mhf_dashboard.png){fig-alt=""}](abolition/prisons_mhf.html)
+
+<!-- # Original Datasets -->
+
+<!-- -  [Prisoners of a Broken System](abolition/prisons_mhf.html)  -->
+<!--    -   Maryland tracts with select characteristics and **all** characteristics of nearest facilities -->
+<!--        - [`MD_GIS.csv`](data/MD_GIS.csv) -->
+<!--    -   Maryland tracts with select characteristics and **select** characteristics of nearest facilities -->
+<!--        - [`MD_GIS_clean.csv`](data/MD_GIS_clean.csv) -->
+<!--    -   Maryland facilities list with **all** characteristics -->
+<!--        - [`Facilities.csv`](data/Facilities.csv) -->
+
+# Favorite Resources
+
+- **Abolition**
+  - [Critical Resistance](https://criticalresistance.org/)
+  - [Prison Policy Initiative](https://www.prisonpolicy.org/)
+  - [The Marshall Project](https://www.themarshallproject.org/)
+  - [The Sentencing Project](https://www.sentencingproject.org/)
+  - [Vera Institute of Justice](https://www.vera.org/)
+- **Immigration**
+  - [Detention Watch Network](https://www.detentionwatchnetwork.org/)
+  - [Freedom for Immigrants](https://www.freedomforimmigrants.org/)
+  - [Human Rights Watch](https://www.hrw.org/)
+  - [Refugee and Immigrant Center for Education and Legal Services (RAICES)](https://www.raicestexas.org/)
+- **Mental Health**
+  - [Fireweed Collective](https://fireweedcollective.org/)
+  - [Icarus Project](https://ibpf.org/resource/the-icarus-project/) / [Icarus Project NYC](http://nycicarus.org/)
+  - [Substance Abuse and Mental Health Services Administration (SAMHSA)](https://www.samhsa.gov/data/)

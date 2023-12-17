@@ -1,0 +1,57 @@
+project:
+  type: website
+
+website:
+  title: "Jamie Pantazi Esmond"
+  navbar:
+    pinned: true
+    right:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - text: "Abolition"
+        file: abolition/abolition.qmd
+      - text: "Immigration"
+        file: immigration/immigration.qmd
+      - text: "History"
+        file: history/history.qmd
+      - text: "Miscellaneous"
+        file: misc/misc.qmd
+      - text: "Resume"
+        file: resume.qmd
+      
+  sidebar:
+    - title: "Abolition"
+      style: "docked"
+      background: light
+      contents:
+        - text: "Abolition Home"
+          file: abolition/abolition.qmd
+        - abolition/prisons_mhf.qmd
+        - abolition/Bail_Impact.qmd
+        - abolition/bail.qmd
+        - abolition/Bail_Reform.qmd
+        - abolition/prisontowns.qmd
+    - title: "Immigration"
+      style: "docked"
+      background: light
+      contents:
+        - text: "Immigration Home"
+          file: immigration/immigration.qmd
+        - immigration/detention.qmd
+    - title: "History"
+      style: "docked"
+      background: light
+      contents:
+        - text: "History Home"
+          file: history/history.qmd
+        - history/badmen.qmd
+        - history/elias.qmd
+        - history/identity.qmd
+
+format:
+  html:
+    theme: custom.scss
+    toc: true
+
+

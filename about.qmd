@@ -1,0 +1,41 @@
+---
+title: "About"
+format: 
+  html: 
+    toc: true
+    theme: custom.scss
+    fig-cap-location: "top"
+    tbl-cap-location: "top"
+    title-block-banner: true
+    title-block-banner-color: "#744FC6"
+    fig-align: "center"
+---
+
+<div style="font-size:20px; text-align: justify">
+
+Jamie Pantazi Esmond is a driven and accomplished recent graduate from the [Andrew Young School of Policy Studies](https://aysps.gsu.edu/) ar Georgia State University with a Master's in Public Policy and a concentration in policy analytics. With a passion for research, data, and advocacy, Jamie has been actively involved in projects supporting marginalized communities and addressing pressing social issues. As a skilled data analyst, Jamie has experience in both academic and non-profit settings, utilizing various methodologies and software tools to organize and present data effectively. Jamie's commitment to social justice and dedication to using data for advocacy make her a valuable asset to any organization seeking to drive positive change.
+
+**Jamie hopes to utilize her advanced data skills, including analysis, interpretation, visualization, to advocate for equity and opportunity for historically oppressed communities. The power of storytelling is great, and she strives to bring her story and the stories of others to life through data and graphic design.**
+
+As a Graduate Research Assistant and Teaching Assistant at Georgia State University, Jamie actively engaged in conducting extensive research and efficiently organizing data for large-scale projects. She possess coding skills and automation proficiency, enabling streamlined data collection and processing. With a commitment to academic excellence, Jamie excels in supporting students' learning and understanding of complex concepts.
+
+In her previous role as a Data Analysis Unit Coordinator in the Family Detention Department of [RAICES (Refugee and Immigrant Center for Education and Legal Services](https://www.raicestexas.org/)), Jamie demonstrated exceptional data management skills. She organized and analyzed data related to detained clients, producing comprehensive reports that aided in identifying urgent cases. Jamie's ability to present data in a clear and concise manner, even under time constraints, proved invaluable in decision-making processes. Additionally, she successfully led and coordinated larger projects while effectively training colleagues in accurate data collection, entry, and reporting. 
+
+Outside the academic and professional realm, Jamie made a significant impact as a facilitator for the Icarus Project in Atlanta, Georgia. Leading a radical mental health support group, with the support of others, she created a safe and inclusive environment for individuals facing mental health challenges. Her dedication to helping others and providing peer-led support demonstrated a commitment to social well-being.
+
+Jamie's educational background includes a Bachelor of Arts in History from Georgia State University, where she graduated summa cum laude. While pursuing a Master of Public Policy with a concentration in policy analytics, Jamie was the inaugural recipient of Henry Thompson Malone Memorial Scholarship, maintained a perfect 4.0 GPA, and actively participated in a graduate research assistantship and a teaching assistantship.
+
+Throughout these experiences, she has gained intimate and thorough knowledge of a variety of issues, including asylum law and general immigration issues, housing insecurity (including personal experience), prison abolition, and peer-led mental health support. She hopes to continue her work using data to advocate for marginalized communities struggling against systemic oppression.
+
+With a versatile skill set encompassing research, data analysis, critical thinking, and exceptional organizational abilities, Jamie is equipped to drive positive change and advocate for marginalized communities struggling against systemic oppression. Their commitment to social justice and passion for using data to address societal issues makes her a valuable asset in any mission to create a more equitable world.
+
+</div>
+
+::: column-margin
+
+<br>
+
+![](raccoongrad.png){width="150"}
+
+:::
+

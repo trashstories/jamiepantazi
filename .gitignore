@@ -1,0 +1,18 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+/.quarto/
+/_site/
+/_freeze/
+
+
+# knitr and caching stuff
+**/*_files/*
+**/*_cache/*
+!README_files/*
+
+files/incomplete-reports.zip
+
+/.luarc.json

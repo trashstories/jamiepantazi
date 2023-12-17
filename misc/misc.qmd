@@ -1,0 +1,41 @@
+---
+title: "Miscellaneous"
+subtitle: "Miscellaneous Projects"
+format: 
+  html: 
+    toc: true
+    theme: custom.scss
+    fig-cap-location: "top"
+    tbl-cap-location: "top"
+    title-block-banner: true
+    title-block-banner-color: "#744FC6"
+    fig-align: "center"
+---
+
+# Mischievious Maps
+
+<div style="font-size:23px">
+
+Visit my Etsy store for personalized map art!
+
+</div>
+
+<div style="font-size:23px; text-align: center">
+
+[Berry Foray's Michievious Maps](https://mischievousmaps.etsy.com)
+
+</div>
+
+![](circles.png)
+
+![](friends6pink.jpg)
+
+![](nikkimap.png)
+
+![](friends4blue.jpg)
+
+![](maptest.png)
+
+
+
+

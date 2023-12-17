@@ -1,0 +1,24 @@
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-3">
+      {% include sidebar.html %}
+    </div>
+    <div class="col-md-9">
+      {% block content %}
+      {% endblock %}
+    </div>
+  </div>
+</div>
+
+<header id="title-block-header">
+<h1 class="title">$title$</h1>
+$if(subtitle)$
+<p class="subtitle">$subtitle$</p>
+$endif$
+
+$if(date)$
+<div class="date-block $date-heading.class$ text-white p-2">
+  <p class="date">$date-heading.content$ $date$</p>
+</div>
+$endif$
+</header>

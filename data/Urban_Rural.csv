@@ -1,0 +1,1407 @@
+GEO_ID,NAME,H002001,H002001ERR,H002002,H002003,H002004,H002005,H002006
+1400000US24001000100,"Census Tract 1, Allegany County, Maryland",2005,null,0,0,0,2005,0
+1400000US24001000200,"Census Tract 2, Allegany County, Maryland",1468,null,187,187,0,1281,0
+1400000US24001000300,"Census Tract 3, Allegany County, Maryland",1255,null,1086,1086,0,169,0
+1400000US24001000400,"Census Tract 4, Allegany County, Maryland",1592,null,1413,1413,0,179,0
+1400000US24001000500,"Census Tract 5, Allegany County, Maryland",1311,null,1225,1225,0,86,0
+1400000US24001000600,"Census Tract 6, Allegany County, Maryland",1502,null,1502,1502,0,0,0
+1400000US24001000700,"Census Tract 7, Allegany County, Maryland",1761,null,1761,1761,0,0,0
+1400000US24001000800,"Census Tract 8, Allegany County, Maryland",1066,null,1066,1066,0,0,0
+1400000US24001001000,"Census Tract 10, Allegany County, Maryland",1500,null,1500,1500,0,0,0
+1400000US24001001100,"Census Tract 11, Allegany County, Maryland",977,null,977,977,0,0,0
+1400000US24001001200,"Census Tract 12, Allegany County, Maryland",1482,null,1482,1482,0,0,0
+1400000US24001001300,"Census Tract 13, Allegany County, Maryland",984,null,983,983,0,1,0
+1400000US24001001401,"Census Tract 14.01, Allegany County, Maryland",1874,null,1515,1515,0,359,0
+1400000US24001001402,"Census Tract 14.02, Allegany County, Maryland",736,null,736,736,0,0,0
+1400000US24001001502,"Census Tract 15.02, Allegany County, Maryland",893,null,700,700,0,193,0
+1400000US24001001503,"Census Tract 15.03, Allegany County, Maryland",878,null,0,0,0,878,0
+1400000US24001001600,"Census Tract 16, Allegany County, Maryland",800,null,568,568,0,232,0
+1400000US24001001700,"Census Tract 17, Allegany County, Maryland",2290,null,1904,1904,0,386,0
+1400000US24001001800,"Census Tract 18, Allegany County, Maryland",1839,null,1761,1761,0,78,0
+1400000US24001001900,"Census Tract 19, Allegany County, Maryland",1130,null,132,132,0,998,0
+1400000US24001002000,"Census Tract 20, Allegany County, Maryland",2483,null,1498,1498,0,985,0
+1400000US24001002100,"Census Tract 21, Allegany County, Maryland",1567,null,1082,0,1082,485,0
+1400000US24001002200,"Census Tract 22, Allegany County, Maryland",1918,null,1292,0,1292,626,0
+1400000US24003701101,"Census Tract 7011.01, Anne Arundel County, Maryland",1633,null,1633,1633,0,0,0
+1400000US24003701102,"Census Tract 7011.02, Anne Arundel County, Maryland",3201,null,3201,3201,0,0,0
+1400000US24003701200,"Census Tract 7012, Anne Arundel County, Maryland",3393,null,3329,3329,0,64,0
+1400000US24003701300,"Census Tract 7013, Anne Arundel County, Maryland",2842,null,192,192,0,2650,0
+1400000US24003701400,"Census Tract 7014, Anne Arundel County, Maryland",1332,null,541,275,266,791,0
+1400000US24003702100,"Census Tract 7021, Anne Arundel County, Maryland",2791,null,2101,2101,0,690,0
+1400000US24003702204,"Census Tract 7022.04, Anne Arundel County, Maryland",1560,null,1560,1560,0,0,0
+1400000US24003702205,"Census Tract 7022.05, Anne Arundel County, Maryland",2366,null,2366,2366,0,0,0
+1400000US24003702206,"Census Tract 7022.06, Anne Arundel County, Maryland",2401,null,2401,2401,0,0,0
+1400000US24003702208,"Census Tract 7022.08, Anne Arundel County, Maryland",2630,null,2630,2630,0,0,0
+1400000US24003702209,"Census Tract 7022.09, Anne Arundel County, Maryland",1568,null,1568,1568,0,0,0
+1400000US24003702300,"Census Tract 7023, Anne Arundel County, Maryland",2016,null,1086,1086,0,930,0
+1400000US24003702402,"Census Tract 7024.02, Anne Arundel County, Maryland",3441,null,3332,3332,0,109,0
+1400000US24003702500,"Census Tract 7025, Anne Arundel County, Maryland",2293,null,2293,2293,0,0,0
+1400000US24003702601,"Census Tract 7026.01, Anne Arundel County, Maryland",2287,null,2287,2287,0,0,0
+1400000US24003702602,"Census Tract 7026.02, Anne Arundel County, Maryland",2607,null,2607,2607,0,0,0
+1400000US24003702701,"Census Tract 7027.01, Anne Arundel County, Maryland",2357,null,2357,2357,0,0,0
+1400000US24003702702,"Census Tract 7027.02, Anne Arundel County, Maryland",1748,null,1534,1534,0,214,0
+1400000US24003706101,"Census Tract 7061.01, Anne Arundel County, Maryland",2023,null,2023,2023,0,0,0
+1400000US24003706301,"Census Tract 7063.01, Anne Arundel County, Maryland",2742,null,2742,2742,0,0,0
+1400000US24003706302,"Census Tract 7063.02, Anne Arundel County, Maryland",2084,null,2084,2084,0,0,0
+1400000US24003706401,"Census Tract 7064.01, Anne Arundel County, Maryland",2407,null,2407,2407,0,0,0
+1400000US24003706402,"Census Tract 7064.02, Anne Arundel County, Maryland",1653,null,1653,1653,0,0,0
+1400000US24003706500,"Census Tract 7065, Anne Arundel County, Maryland",2530,null,2530,2530,0,0,0
+1400000US24003706600,"Census Tract 7066, Anne Arundel County, Maryland",2093,null,2093,2093,0,0,0
+1400000US24003706700,"Census Tract 7067, Anne Arundel County, Maryland",195,null,195,195,0,0,0
+1400000US24003707001,"Census Tract 7070.01, Anne Arundel County, Maryland",2715,null,2529,0,2529,186,0
+1400000US24003707002,"Census Tract 7070.02, Anne Arundel County, Maryland",2077,null,1974,0,1974,103,0
+1400000US24003708001,"Census Tract 7080.01, Anne Arundel County, Maryland",1703,null,369,0,369,1334,0
+1400000US24003708004,"Census Tract 7080.04, Anne Arundel County, Maryland",2304,null,704,704,0,1600,0
+1400000US24003730100,"Census Tract 7301, Anne Arundel County, Maryland",3031,null,2943,2943,0,88,0
+1400000US24003730203,"Census Tract 7302.03, Anne Arundel County, Maryland",2613,null,2613,2613,0,0,0
+1400000US24003730204,"Census Tract 7302.04, Anne Arundel County, Maryland",2001,null,2001,2001,0,0,0
+1400000US24003730300,"Census Tract 7303, Anne Arundel County, Maryland",1209,null,1209,1209,0,0,0
+1400000US24003730401,"Census Tract 7304.01, Anne Arundel County, Maryland",1822,null,1822,1822,0,0,0
+1400000US24003730402,"Census Tract 7304.02, Anne Arundel County, Maryland",2604,null,2604,2604,0,0,0
+1400000US24003730502,"Census Tract 7305.02, Anne Arundel County, Maryland",2493,null,2493,2493,0,0,0
+1400000US24003730504,"Census Tract 7305.04, Anne Arundel County, Maryland",2929,null,2929,2929,0,0,0
+1400000US24003730505,"Census Tract 7305.05, Anne Arundel County, Maryland",2137,null,2137,2137,0,0,0
+1400000US24003730506,"Census Tract 7305.06, Anne Arundel County, Maryland",1961,null,1961,1961,0,0,0
+1400000US24003730601,"Census Tract 7306.01, Anne Arundel County, Maryland",2344,null,2344,2344,0,0,0
+1400000US24003730603,"Census Tract 7306.03, Anne Arundel County, Maryland",1086,null,1086,1086,0,0,0
+1400000US24003730604,"Census Tract 7306.04, Anne Arundel County, Maryland",2236,null,2236,2236,0,0,0
+1400000US24003730700,"Census Tract 7307, Anne Arundel County, Maryland",2706,null,2706,2706,0,0,0
+1400000US24003730800,"Census Tract 7308, Anne Arundel County, Maryland",966,null,966,966,0,0,0
+1400000US24003730901,"Census Tract 7309.01, Anne Arundel County, Maryland",1020,null,1020,1020,0,0,0
+1400000US24003730902,"Census Tract 7309.02, Anne Arundel County, Maryland",1576,null,1576,1576,0,0,0
+1400000US24003731002,"Census Tract 7310.02, Anne Arundel County, Maryland",1350,null,1350,1350,0,0,0
+1400000US24003731003,"Census Tract 7310.03, Anne Arundel County, Maryland",1624,null,1624,1624,0,0,0
+1400000US24003731004,"Census Tract 7310.04, Anne Arundel County, Maryland",1642,null,1642,1642,0,0,0
+1400000US24003731102,"Census Tract 7311.02, Anne Arundel County, Maryland",3168,null,3168,3168,0,0,0
+1400000US24003731103,"Census Tract 7311.03, Anne Arundel County, Maryland",1923,null,1923,1923,0,0,0
+1400000US24003731104,"Census Tract 7311.04, Anne Arundel County, Maryland",1438,null,1438,1438,0,0,0
+1400000US24003731105,"Census Tract 7311.05, Anne Arundel County, Maryland",1353,null,1353,1353,0,0,0
+1400000US24003731201,"Census Tract 7312.01, Anne Arundel County, Maryland",2437,null,2437,2437,0,0,0
+1400000US24003731202,"Census Tract 7312.02, Anne Arundel County, Maryland",2946,null,2548,2548,0,398,0
+1400000US24003731203,"Census Tract 7312.03, Anne Arundel County, Maryland",2624,null,2624,2624,0,0,0
+1400000US24003731204,"Census Tract 7312.04, Anne Arundel County, Maryland",2404,null,2404,2404,0,0,0
+1400000US24003731303,"Census Tract 7313.03, Anne Arundel County, Maryland",2795,null,2361,2361,0,434,0
+1400000US24003731306,"Census Tract 7313.06, Anne Arundel County, Maryland",2460,null,2460,2460,0,0,0
+1400000US24003731307,"Census Tract 7313.07, Anne Arundel County, Maryland",2480,null,2480,2480,0,0,0
+1400000US24003731308,"Census Tract 7313.08, Anne Arundel County, Maryland",1486,null,1486,1486,0,0,0
+1400000US24003731309,"Census Tract 7313.09, Anne Arundel County, Maryland",2134,null,2134,2134,0,0,0
+1400000US24003731310,"Census Tract 7313.10, Anne Arundel County, Maryland",1861,null,1861,1861,0,0,0
+1400000US24003731311,"Census Tract 7313.11, Anne Arundel County, Maryland",2797,null,2797,2797,0,0,0
+1400000US24003740102,"Census Tract 7401.02, Anne Arundel County, Maryland",2772,null,2772,2772,0,0,0
+1400000US24003740103,"Census Tract 7401.03, Anne Arundel County, Maryland",3006,null,3006,3006,0,0,0
+1400000US24003740104,"Census Tract 7401.04, Anne Arundel County, Maryland",2910,null,2910,2910,0,0,0
+1400000US24003740105,"Census Tract 7401.05, Anne Arundel County, Maryland",1304,null,1304,1304,0,0,0
+1400000US24003740201,"Census Tract 7402.01, Anne Arundel County, Maryland",2845,null,2845,2845,0,0,0
+1400000US24003740203,"Census Tract 7402.03, Anne Arundel County, Maryland",1875,null,1847,1847,0,28,0
+1400000US24003740303,"Census Tract 7403.03, Anne Arundel County, Maryland",1531,null,1531,1531,0,0,0
+1400000US24003740304,"Census Tract 7403.04, Anne Arundel County, Maryland",1664,null,1664,1664,0,0,0
+1400000US24003740305,"Census Tract 7403.05, Anne Arundel County, Maryland",3970,null,3970,3970,0,0,0
+1400000US24003740400,"Census Tract 7404, Anne Arundel County, Maryland",0,null,0,0,0,0,0
+1400000US24003740500,"Census Tract 7405, Anne Arundel County, Maryland",4095,null,4076,4076,0,19,0
+1400000US24003740601,"Census Tract 7406.01, Anne Arundel County, Maryland",1331,null,1331,1331,0,0,0
+1400000US24003740602,"Census Tract 7406.02, Anne Arundel County, Maryland",1201,null,1201,1201,0,0,0
+1400000US24003740603,"Census Tract 7406.03, Anne Arundel County, Maryland",208,null,199,199,0,9,0
+1400000US24003740701,"Census Tract 7407.01, Anne Arundel County, Maryland",2847,null,2847,2847,0,0,0
+1400000US24003740702,"Census Tract 7407.02, Anne Arundel County, Maryland",3961,null,3832,3832,0,129,0
+1400000US24003740800,"Census Tract 7408, Anne Arundel County, Maryland",1689,null,1518,1518,0,171,0
+1400000US24003740900,"Census Tract 7409, Anne Arundel County, Maryland",2554,null,2554,2554,0,0,0
+1400000US24003741000,"Census Tract 7410, Anne Arundel County, Maryland",841,null,537,537,0,304,0
+1400000US24003750101,"Census Tract 7501.01, Anne Arundel County, Maryland",1678,null,1678,1678,0,0,0
+1400000US24003750102,"Census Tract 7501.02, Anne Arundel County, Maryland",931,null,931,931,0,0,0
+1400000US24003750201,"Census Tract 7502.01, Anne Arundel County, Maryland",1070,null,1070,1070,0,0,0
+1400000US24003750202,"Census Tract 7502.02, Anne Arundel County, Maryland",1317,null,1317,1317,0,0,0
+1400000US24003750203,"Census Tract 7502.03, Anne Arundel County, Maryland",578,null,578,578,0,0,0
+1400000US24003750300,"Census Tract 7503, Anne Arundel County, Maryland",1110,null,1110,1110,0,0,0
+1400000US24003750400,"Census Tract 7504, Anne Arundel County, Maryland",1663,null,1663,1663,0,0,0
+1400000US24003750801,"Census Tract 7508.01, Anne Arundel County, Maryland",2170,null,2170,2170,0,0,0
+1400000US24003750803,"Census Tract 7508.03, Anne Arundel County, Maryland",2916,null,2916,2916,0,0,0
+1400000US24003750804,"Census Tract 7508.04, Anne Arundel County, Maryland",1539,null,1539,1539,0,0,0
+1400000US24003750900,"Census Tract 7509, Anne Arundel County, Maryland",1307,null,1307,1307,0,0,0
+1400000US24003751000,"Census Tract 7510, Anne Arundel County, Maryland",1547,null,1547,1547,0,0,0
+1400000US24003751102,"Census Tract 7511.02, Anne Arundel County, Maryland",1786,null,1786,1786,0,0,0
+1400000US24003751103,"Census Tract 7511.03, Anne Arundel County, Maryland",2337,null,2337,2337,0,0,0
+1400000US24003751200,"Census Tract 7512, Anne Arundel County, Maryland",1571,null,1571,1571,0,0,0
+1400000US24003751400,"Census Tract 7514, Anne Arundel County, Maryland",1614,null,1614,1614,0,0,0
+1400000US24003751500,"Census Tract 7515, Anne Arundel County, Maryland",2520,null,2483,2483,0,37,0
+1400000US24003751600,"Census Tract 7516, Anne Arundel County, Maryland",2649,null,2374,2374,0,275,0
+1400000US24003751700,"Census Tract 7517, Anne Arundel County, Maryland",1004,null,347,347,0,657,0
+1400000US24003980000,"Census Tract 9800, Anne Arundel County, Maryland",3,null,3,3,0,0,0
+1400000US24003990000,"Census Tract 9900, Anne Arundel County, Maryland",0,null,0,0,0,0,0
+1400000US24005400100,"Census Tract 4001, Baltimore County, Maryland",2559,null,2559,2559,0,0,0
+1400000US24005400200,"Census Tract 4002, Baltimore County, Maryland",1162,null,1162,1162,0,0,0
+1400000US24005400400,"Census Tract 4004, Baltimore County, Maryland",2322,null,2322,2322,0,0,0
+1400000US24005400500,"Census Tract 4005, Baltimore County, Maryland",873,null,873,873,0,0,0
+1400000US24005400600,"Census Tract 4006, Baltimore County, Maryland",1295,T1_HU$1400000US24005400600,1295,1295,0,0,0
+1400000US24005400701,"Census Tract 4007.01, Baltimore County, Maryland",1372,null,1372,1372,0,0,0
+1400000US24005400702,"Census Tract 4007.02, Baltimore County, Maryland",693,null,693,693,0,0,0
+1400000US24005400800,"Census Tract 4008, Baltimore County, Maryland",1132,null,1132,1132,0,0,0
+1400000US24005400900,"Census Tract 4009, Baltimore County, Maryland",782,null,782,782,0,0,0
+1400000US24005401000,"Census Tract 4010, Baltimore County, Maryland",871,null,871,871,0,0,0
+1400000US24005401101,"Census Tract 4011.01, Baltimore County, Maryland",2484,null,2484,2484,0,0,0
+1400000US24005401102,"Census Tract 4011.02, Baltimore County, Maryland",493,null,493,493,0,0,0
+1400000US24005401200,"Census Tract 4012, Baltimore County, Maryland",1270,null,1270,1270,0,0,0
+1400000US24005401301,"Census Tract 4013.01, Baltimore County, Maryland",1482,null,1482,1482,0,0,0
+1400000US24005401302,"Census Tract 4013.02, Baltimore County, Maryland",1358,null,1358,1358,0,0,0
+1400000US24005401400,"Census Tract 4014, Baltimore County, Maryland",594,null,594,594,0,0,0
+1400000US24005401503,"Census Tract 4015.03, Baltimore County, Maryland",2732,null,2732,2732,0,0,0
+1400000US24005401504,"Census Tract 4015.04, Baltimore County, Maryland",2244,null,2244,2244,0,0,0
+1400000US24005401505,"Census Tract 4015.05, Baltimore County, Maryland",1617,null,1617,1617,0,0,0
+1400000US24005401506,"Census Tract 4015.06, Baltimore County, Maryland",1839,null,1839,1839,0,0,0
+1400000US24005401507,"Census Tract 4015.07, Baltimore County, Maryland",2170,null,2170,2170,0,0,0
+1400000US24005402201,"Census Tract 4022.01, Baltimore County, Maryland",1144,null,415,415,0,729,0
+1400000US24005402202,"Census Tract 4022.02, Baltimore County, Maryland",649,null,11,11,0,638,0
+1400000US24005402302,"Census Tract 4023.02, Baltimore County, Maryland",1850,null,1850,1850,0,0,0
+1400000US24005402303,"Census Tract 4023.03, Baltimore County, Maryland",2610,null,2610,2610,0,0,0
+1400000US24005402304,"Census Tract 4023.04, Baltimore County, Maryland",1425,null,1425,1425,0,0,0
+1400000US24005402305,"Census Tract 4023.05, Baltimore County, Maryland",841,null,841,841,0,0,0
+1400000US24005402306,"Census Tract 4023.06, Baltimore County, Maryland",1630,null,1630,1630,0,0,0
+1400000US24005402307,"Census Tract 4023.07, Baltimore County, Maryland",2585,null,2585,2585,0,0,0
+1400000US24005402403,"Census Tract 4024.03, Baltimore County, Maryland",865,null,865,865,0,0,0
+1400000US24005402404,"Census Tract 4024.04, Baltimore County, Maryland",2278,null,2278,2278,0,0,0
+1400000US24005402405,"Census Tract 4024.05, Baltimore County, Maryland",1472,null,1472,1472,0,0,0
+1400000US24005402406,"Census Tract 4024.06, Baltimore County, Maryland",2954,null,2954,2954,0,0,0
+1400000US24005402407,"Census Tract 4024.07, Baltimore County, Maryland",603,null,603,603,0,0,0
+1400000US24005402503,"Census Tract 4025.03, Baltimore County, Maryland",2004,null,2004,2004,0,0,0
+1400000US24005402504,"Census Tract 4025.04, Baltimore County, Maryland",1545,null,1538,1538,0,7,0
+1400000US24005402505,"Census Tract 4025.05, Baltimore County, Maryland",1388,null,1388,1388,0,0,0
+1400000US24005402506,"Census Tract 4025.06, Baltimore County, Maryland",1505,null,1505,1505,0,0,0
+1400000US24005402509,"Census Tract 4025.09, Baltimore County, Maryland",3952,null,3952,3952,0,0,0
+1400000US24005402602,"Census Tract 4026.02, Baltimore County, Maryland",736,null,736,736,0,0,0
+1400000US24005402603,"Census Tract 4026.03, Baltimore County, Maryland",2484,null,2484,2484,0,0,0
+1400000US24005402604,"Census Tract 4026.04, Baltimore County, Maryland",2201,null,2201,2201,0,0,0
+1400000US24005403100,"Census Tract 4031, Baltimore County, Maryland",952,null,952,952,0,0,0
+1400000US24005403201,"Census Tract 4032.01, Baltimore County, Maryland",1191,null,1191,1191,0,0,0
+1400000US24005403202,"Census Tract 4032.02, Baltimore County, Maryland",795,null,795,795,0,0,0
+1400000US24005403300,"Census Tract 4033, Baltimore County, Maryland",1068,null,1068,1068,0,0,0
+1400000US24005403401,"Census Tract 4034.01, Baltimore County, Maryland",1926,null,1926,1926,0,0,0
+1400000US24005403402,"Census Tract 4034.02, Baltimore County, Maryland",2205,T1_HU$1400000US24005403402,2205,2205,0,0,0
+1400000US24005403500,"Census Tract 4035, Baltimore County, Maryland",1838,null,1838,1838,0,0,0
+1400000US24005403601,"Census Tract 4036.01, Baltimore County, Maryland",2062,null,2062,2062,0,0,0
+1400000US24005403602,"Census Tract 4036.02, Baltimore County, Maryland",2289,null,2289,2289,0,0,0
+1400000US24005403701,"Census Tract 4037.01, Baltimore County, Maryland",3413,null,3195,3195,0,218,0
+1400000US24005403702,"Census Tract 4037.02, Baltimore County, Maryland",2235,null,2235,2235,0,0,0
+1400000US24005403801,"Census Tract 4038.01, Baltimore County, Maryland",659,null,443,443,0,216,0
+1400000US24005403802,"Census Tract 4038.02, Baltimore County, Maryland",1178,null,1051,1051,0,127,0
+1400000US24005403803,"Census Tract 4038.03, Baltimore County, Maryland",1615,null,1615,1615,0,0,0
+1400000US24005404101,"Census Tract 4041.01, Baltimore County, Maryland",1873,null,1804,1804,0,69,0
+1400000US24005404102,"Census Tract 4041.02, Baltimore County, Maryland",2187,null,2187,2187,0,0,0
+1400000US24005404201,"Census Tract 4042.01, Baltimore County, Maryland",2308,null,2308,2308,0,0,0
+1400000US24005404202,"Census Tract 4042.02, Baltimore County, Maryland",2914,null,2914,2914,0,0,0
+1400000US24005404402,"Census Tract 4044.02, Baltimore County, Maryland",2351,null,2172,2172,0,179,0
+1400000US24005404403,"Census Tract 4044.03, Baltimore County, Maryland",2079,null,2079,2079,0,0,0
+1400000US24005404404,"Census Tract 4044.04, Baltimore County, Maryland",2019,null,2019,2019,0,0,0
+1400000US24005404501,"Census Tract 4045.01, Baltimore County, Maryland",2590,null,2590,2590,0,0,0
+1400000US24005404502,"Census Tract 4045.02, Baltimore County, Maryland",1598,null,1598,1598,0,0,0
+1400000US24005404600,"Census Tract 4046, Baltimore County, Maryland",1096,null,260,260,0,836,0
+1400000US24005404800,"Census Tract 4048, Baltimore County, Maryland",700,null,100,100,0,600,0
+1400000US24005404900,"Census Tract 4049, Baltimore County, Maryland",1875,null,1461,1461,0,414,0
+1400000US24005405000,"Census Tract 4050, Baltimore County, Maryland",1783,null,55,55,0,1728,0
+1400000US24005406000,"Census Tract 4060, Baltimore County, Maryland",2072,null,17,0,17,2055,0
+1400000US24005407001,"Census Tract 4070.01, Baltimore County, Maryland",1243,null,0,0,0,1243,0
+1400000US24005407002,"Census Tract 4070.02, Baltimore County, Maryland",2012,null,0,0,0,2012,0
+1400000US24005408100,"Census Tract 4081, Baltimore County, Maryland",2426,null,1860,1860,0,566,0
+1400000US24005408200,"Census Tract 4082, Baltimore County, Maryland",752,null,0,0,0,752,0
+1400000US24005408302,"Census Tract 4083.02, Baltimore County, Maryland",1248,null,1247,1247,0,1,0
+1400000US24005408303,"Census Tract 4083.03, Baltimore County, Maryland",1166,null,984,984,0,182,0
+1400000US24005408304,"Census Tract 4083.04, Baltimore County, Maryland",2401,null,1884,1884,0,517,0
+1400000US24005408400,"Census Tract 4084, Baltimore County, Maryland",524,null,524,524,0,0,0
+1400000US24005408502,"Census Tract 4085.02, Baltimore County, Maryland",2271,null,2217,2217,0,54,0
+1400000US24005408503,"Census Tract 4085.03, Baltimore County, Maryland",1448,null,1448,1448,0,0,0
+1400000US24005408505,"Census Tract 4085.05, Baltimore County, Maryland",1612,null,1612,1612,0,0,0
+1400000US24005408506,"Census Tract 4085.06, Baltimore County, Maryland",2492,null,2492,2492,0,0,0
+1400000US24005408507,"Census Tract 4085.07, Baltimore County, Maryland",3093,null,3093,3093,0,0,0
+1400000US24005408601,"Census Tract 4086.01, Baltimore County, Maryland",1570,null,1570,1570,0,0,0
+1400000US24005408602,"Census Tract 4086.02, Baltimore County, Maryland",865,null,865,865,0,0,0
+1400000US24005408702,"Census Tract 4087.02, Baltimore County, Maryland",1082,null,1082,1082,0,0,0
+1400000US24005408703,"Census Tract 4087.03, Baltimore County, Maryland",2852,null,2852,2852,0,0,0
+1400000US24005408704,"Census Tract 4087.04, Baltimore County, Maryland",2064,null,2064,2064,0,0,0
+1400000US24005408800,"Census Tract 4088, Baltimore County, Maryland",1083,null,1083,1083,0,0,0
+1400000US24005408900,"Census Tract 4089, Baltimore County, Maryland",1269,null,1269,1269,0,0,0
+1400000US24005410100,"Census Tract 4101, Baltimore County, Maryland",2219,null,636,636,0,1583,0
+1400000US24005410200,"Census Tract 4102, Baltimore County, Maryland",1729,null,792,792,0,937,0
+1400000US24005411101,"Census Tract 4111.01, Baltimore County, Maryland",841,null,364,364,0,477,0
+1400000US24005411102,"Census Tract 4111.02, Baltimore County, Maryland",1193,null,585,585,0,608,0
+1400000US24005411201,"Census Tract 4112.01, Baltimore County, Maryland",1251,null,0,0,0,1251,0
+1400000US24005411202,"Census Tract 4112.02, Baltimore County, Maryland",1613,null,466,466,0,1147,0
+1400000US24005411302,"Census Tract 4113.02, Baltimore County, Maryland",1189,null,1034,1034,0,155,0
+1400000US24005411303,"Census Tract 4113.03, Baltimore County, Maryland",2781,null,2781,2781,0,0,0
+1400000US24005411306,"Census Tract 4113.06, Baltimore County, Maryland",2302,null,2302,2302,0,0,0
+1400000US24005411307,"Census Tract 4113.07, Baltimore County, Maryland",1594,null,1594,1594,0,0,0
+1400000US24005411308,"Census Tract 4113.08, Baltimore County, Maryland",1395,null,1395,1395,0,0,0
+1400000US24005411309,"Census Tract 4113.09, Baltimore County, Maryland",3104,null,3104,3104,0,0,0
+1400000US24005411404,"Census Tract 4114.04, Baltimore County, Maryland",1418,null,1418,1418,0,0,0
+1400000US24005411406,"Census Tract 4114.06, Baltimore County, Maryland",1830,null,1830,1830,0,0,0
+1400000US24005411407,"Census Tract 4114.07, Baltimore County, Maryland",5898,null,5898,5898,0,0,0
+1400000US24005411408,"Census Tract 4114.08, Baltimore County, Maryland",1561,null,1561,1561,0,0,0
+1400000US24005411409,"Census Tract 4114.09, Baltimore County, Maryland",1889,null,1889,1889,0,0,0
+1400000US24005411410,"Census Tract 4114.10, Baltimore County, Maryland",1756,null,1756,1756,0,0,0
+1400000US24005420100,"Census Tract 4201, Baltimore County, Maryland",1414,null,1414,1414,0,0,0
+1400000US24005420200,"Census Tract 4202, Baltimore County, Maryland",1156,null,1156,1156,0,0,0
+1400000US24005420301,"Census Tract 4203.01, Baltimore County, Maryland",1085,null,1085,1085,0,0,0
+1400000US24005420302,"Census Tract 4203.02, Baltimore County, Maryland",1045,null,1045,1045,0,0,0
+1400000US24005420303,"Census Tract 4203.03, Baltimore County, Maryland",533,null,533,533,0,0,0
+1400000US24005420401,"Census Tract 4204.01, Baltimore County, Maryland",2306,null,2306,2306,0,0,0
+1400000US24005420402,"Census Tract 4204.02, Baltimore County, Maryland",824,null,824,824,0,0,0
+1400000US24005420500,"Census Tract 4205, Baltimore County, Maryland",1465,null,1465,1465,0,0,0
+1400000US24005420600,"Census Tract 4206, Baltimore County, Maryland",1575,null,1575,1575,0,0,0
+1400000US24005420701,"Census Tract 4207.01, Baltimore County, Maryland",1257,null,1257,1257,0,0,0
+1400000US24005420702,"Census Tract 4207.02, Baltimore County, Maryland",857,null,857,857,0,0,0
+1400000US24005420800,"Census Tract 4208, Baltimore County, Maryland",1426,null,1426,1426,0,0,0
+1400000US24005420900,"Census Tract 4209, Baltimore County, Maryland",1617,null,1617,1617,0,0,0
+1400000US24005421000,"Census Tract 4210, Baltimore County, Maryland",971,null,971,971,0,0,0
+1400000US24005421101,"Census Tract 4211.01, Baltimore County, Maryland",1472,null,1472,1472,0,0,0
+1400000US24005421102,"Census Tract 4211.02, Baltimore County, Maryland",1012,null,1012,1012,0,0,0
+1400000US24005421200,"Census Tract 4212, Baltimore County, Maryland",785,null,785,785,0,0,0
+1400000US24005421300,"Census Tract 4213, Baltimore County, Maryland",1398,null,1398,1398,0,0,0
+1400000US24005430101,"Census Tract 4301.01, Baltimore County, Maryland",1661,null,1661,1661,0,0,0
+1400000US24005430104,"Census Tract 4301.04, Baltimore County, Maryland",1047,null,1047,1047,0,0,0
+1400000US24005430200,"Census Tract 4302, Baltimore County, Maryland",1136,T1_HU$1400000US24005430200,1136,1136,0,0,0
+1400000US24005430300,"Census Tract 4303, Baltimore County, Maryland",2119,null,2119,2119,0,0,0
+1400000US24005430400,"Census Tract 4304, Baltimore County, Maryland",1724,T1_HU$1400000US24005430400,1724,1724,0,0,0
+1400000US24005430600,"Census Tract 4306, Baltimore County, Maryland",940,null,940,940,0,0,0
+1400000US24005430700,"Census Tract 4307, Baltimore County, Maryland",2109,null,2109,2109,0,0,0
+1400000US24005430800,"Census Tract 4308, Baltimore County, Maryland",1537,null,1537,1537,0,0,0
+1400000US24005430900,"Census Tract 4309, Baltimore County, Maryland",2253,null,2253,2253,0,0,0
+1400000US24005440100,"Census Tract 4401, Baltimore County, Maryland",1874,null,1874,1874,0,0,0
+1400000US24005440200,"Census Tract 4402, Baltimore County, Maryland",1140,null,1140,1140,0,0,0
+1400000US24005440300,"Census Tract 4403, Baltimore County, Maryland",1001,null,1001,1001,0,0,0
+1400000US24005440400,"Census Tract 4404, Baltimore County, Maryland",2180,T1_HU$1400000US24005440400,2180,2180,0,0,0
+1400000US24005440500,"Census Tract 4405, Baltimore County, Maryland",1370,null,1370,1370,0,0,0
+1400000US24005440600,"Census Tract 4406, Baltimore County, Maryland",775,null,775,775,0,0,0
+1400000US24005440701,"Census Tract 4407.01, Baltimore County, Maryland",2646,null,2646,2646,0,0,0
+1400000US24005440702,"Census Tract 4407.02, Baltimore County, Maryland",2448,null,2448,2448,0,0,0
+1400000US24005440800,"Census Tract 4408, Baltimore County, Maryland",1265,null,1265,1265,0,0,0
+1400000US24005440900,"Census Tract 4409, Baltimore County, Maryland",1461,null,1461,1461,0,0,0
+1400000US24005441000,"Census Tract 4410, Baltimore County, Maryland",1344,null,1344,1344,0,0,0
+1400000US24005441101,"Census Tract 4411.01, Baltimore County, Maryland",906,null,906,906,0,0,0
+1400000US24005441102,"Census Tract 4411.02, Baltimore County, Maryland",1906,null,1906,1906,0,0,0
+1400000US24005450100,"Census Tract 4501, Baltimore County, Maryland",1668,null,1668,1668,0,0,0
+1400000US24005450200,"Census Tract 4502, Baltimore County, Maryland",1411,null,1411,1411,0,0,0
+1400000US24005450300,"Census Tract 4503, Baltimore County, Maryland",1458,null,1458,1458,0,0,0
+1400000US24005450400,"Census Tract 4504, Baltimore County, Maryland",886,null,886,886,0,0,0
+1400000US24005450501,"Census Tract 4505.01, Baltimore County, Maryland",1856,null,1856,1856,0,0,0
+1400000US24005450503,"Census Tract 4505.03, Baltimore County, Maryland",2335,null,2335,2335,0,0,0
+1400000US24005450504,"Census Tract 4505.04, Baltimore County, Maryland",2826,null,2826,2826,0,0,0
+1400000US24005450800,"Census Tract 4508, Baltimore County, Maryland",1807,null,1807,1807,0,0,0
+1400000US24005450900,"Census Tract 4509, Baltimore County, Maryland",1730,null,1730,1730,0,0,0
+1400000US24005451000,"Census Tract 4510, Baltimore County, Maryland",763,null,400,400,0,363,0
+1400000US24005451100,"Census Tract 4511, Baltimore County, Maryland",742,null,742,742,0,0,0
+1400000US24005451200,"Census Tract 4512, Baltimore County, Maryland",1646,null,1646,1646,0,0,0
+1400000US24005451300,"Census Tract 4513, Baltimore County, Maryland",1568,null,1568,1568,0,0,0
+1400000US24005451401,"Census Tract 4514.01, Baltimore County, Maryland",1379,null,1379,1379,0,0,0
+1400000US24005451402,"Census Tract 4514.02, Baltimore County, Maryland",2238,null,2238,2238,0,0,0
+1400000US24005451500,"Census Tract 4515, Baltimore County, Maryland",1458,null,1458,1458,0,0,0
+1400000US24005451600,"Census Tract 4516, Baltimore County, Maryland",991,null,991,991,0,0,0
+1400000US24005451701,"Census Tract 4517.01, Baltimore County, Maryland",1077,null,1077,1077,0,0,0
+1400000US24005451702,"Census Tract 4517.02, Baltimore County, Maryland",797,null,797,797,0,0,0
+1400000US24005451801,"Census Tract 4518.01, Baltimore County, Maryland",2153,null,2117,2117,0,36,0
+1400000US24005451802,"Census Tract 4518.02, Baltimore County, Maryland",1806,null,1806,1806,0,0,0
+1400000US24005451803,"Census Tract 4518.03, Baltimore County, Maryland",1975,null,1975,1975,0,0,0
+1400000US24005451900,"Census Tract 4519, Baltimore County, Maryland",1053,null,953,953,0,100,0
+1400000US24005452000,"Census Tract 4520, Baltimore County, Maryland",1062,null,1062,1062,0,0,0
+1400000US24005452100,"Census Tract 4521, Baltimore County, Maryland",1467,null,1467,1467,0,0,0
+1400000US24005452300,"Census Tract 4523, Baltimore County, Maryland",1201,null,1201,1201,0,0,0
+1400000US24005452400,"Census Tract 4524, Baltimore County, Maryland",1399,null,1399,1399,0,0,0
+1400000US24005452500,"Census Tract 4525, Baltimore County, Maryland",1417,null,1417,1417,0,0,0
+1400000US24005490100,"Census Tract 4901, Baltimore County, Maryland",1604,null,1394,1394,0,210,0
+1400000US24005490200,"Census Tract 4902, Baltimore County, Maryland",1104,null,1104,1104,0,0,0
+1400000US24005490301,"Census Tract 4903.01, Baltimore County, Maryland",3356,null,3356,3356,0,0,0
+1400000US24005490302,"Census Tract 4903.02, Baltimore County, Maryland",1347,null,1347,1347,0,0,0
+1400000US24005490400,"Census Tract 4904, Baltimore County, Maryland",751,null,751,751,0,0,0
+1400000US24005490500,"Census Tract 4905, Baltimore County, Maryland",1573,null,1573,1573,0,0,0
+1400000US24005490601,"Census Tract 4906.01, Baltimore County, Maryland",845,T1_HU$1400000US24005490601,845,845,0,0,0
+1400000US24005490602,"Census Tract 4906.02, Baltimore County, Maryland",1400,null,1400,1400,0,0,0
+1400000US24005490603,"Census Tract 4906.03, Baltimore County, Maryland",971,T1_HU$1400000US24005490603,971,971,0,0,0
+1400000US24005490605,"Census Tract 4906.05, Baltimore County, Maryland",249,null,249,249,0,0,0
+1400000US24005490701,"Census Tract 4907.01, Baltimore County, Maryland",680,null,680,680,0,0,0
+1400000US24005490703,"Census Tract 4907.03, Baltimore County, Maryland",1200,null,1200,1200,0,0,0
+1400000US24005490800,"Census Tract 4908, Baltimore County, Maryland",1441,null,1441,1441,0,0,0
+1400000US24005490900,"Census Tract 4909, Baltimore County, Maryland",2423,null,2423,2423,0,0,0
+1400000US24005491000,"Census Tract 4910, Baltimore County, Maryland",802,null,802,802,0,0,0
+1400000US24005491100,"Census Tract 4911, Baltimore County, Maryland",1452,T1_HU$1400000US24005491100,1452,1452,0,0,0
+1400000US24005491201,"Census Tract 4912.01, Baltimore County, Maryland",875,null,875,875,0,0,0
+1400000US24005491202,"Census Tract 4912.02, Baltimore County, Maryland",813,null,813,813,0,0,0
+1400000US24005491300,"Census Tract 4913, Baltimore County, Maryland",1525,null,1525,1525,0,0,0
+1400000US24005491401,"Census Tract 4914.01, Baltimore County, Maryland",2373,null,2373,2373,0,0,0
+1400000US24005491402,"Census Tract 4914.02, Baltimore County, Maryland",1202,null,1202,1202,0,0,0
+1400000US24005491500,"Census Tract 4915, Baltimore County, Maryland",1813,null,1813,1813,0,0,0
+1400000US24005491600,"Census Tract 4916, Baltimore County, Maryland",1332,null,1332,1332,0,0,0
+1400000US24005491701,"Census Tract 4917.01, Baltimore County, Maryland",1856,null,1856,1856,0,0,0
+1400000US24005491900,"Census Tract 4919, Baltimore County, Maryland",886,null,886,886,0,0,0
+1400000US24005492001,"Census Tract 4920.01, Baltimore County, Maryland",654,null,654,654,0,0,0
+1400000US24005492002,"Census Tract 4920.02, Baltimore County, Maryland",1651,null,1651,1651,0,0,0
+1400000US24005492101,"Census Tract 4921.01, Baltimore County, Maryland",1671,null,1671,1671,0,0,0
+1400000US24005492102,"Census Tract 4921.02, Baltimore County, Maryland",912,T1_HU$1400000US24005492102,912,912,0,0,0
+1400000US24005492200,"Census Tract 4922, Baltimore County, Maryland",2086,null,2086,2086,0,0,0
+1400000US24005492300,"Census Tract 4923, Baltimore County, Maryland",1447,null,1447,1447,0,0,0
+1400000US24005492401,"Census Tract 4924.01, Baltimore County, Maryland",1404,null,1404,1404,0,0,0
+1400000US24005492402,"Census Tract 4924.02, Baltimore County, Maryland",3100,null,3100,3100,0,0,0
+1400000US24005492500,"Census Tract 4925, Baltimore County, Maryland",77,null,77,77,0,0,0
+1400000US24005492600,"Census Tract 4926, Baltimore County, Maryland",1566,null,1566,1566,0,0,0
+1400000US24005980000,"Census Tract 9800, Baltimore County, Maryland",0,null,0,0,0,0,0
+1400000US24005980100,"Census Tract 9801, Baltimore County, Maryland",0,null,0,0,0,0,0
+1400000US24005980200,"Census Tract 9802, Baltimore County, Maryland",0,null,0,0,0,0,0
+1400000US24009860101,"Census Tract 8601.01, Calvert County, Maryland",1101,null,540,0,540,561,0
+1400000US24009860102,"Census Tract 8601.02, Calvert County, Maryland",1027,null,723,0,723,304,0
+1400000US24009860200,"Census Tract 8602, Calvert County, Maryland",2027,null,866,0,866,1161,0
+1400000US24009860300,"Census Tract 8603, Calvert County, Maryland",1412,null,337,0,337,1075,0
+1400000US24009860401,"Census Tract 8604.01, Calvert County, Maryland",4090,null,3998,0,3998,92,0
+1400000US24009860402,"Census Tract 8604.02, Calvert County, Maryland",1394,null,1360,0,1360,34,0
+1400000US24009860501,"Census Tract 8605.01, Calvert County, Maryland",1869,null,83,0,83,1786,0
+1400000US24009860502,"Census Tract 8605.02, Calvert County, Maryland",1294,null,1031,0,1031,263,0
+1400000US24009860600,"Census Tract 8606, Calvert County, Maryland",2399,null,961,0,961,1438,0
+1400000US24009860701,"Census Tract 8607.01, Calvert County, Maryland",1014,null,441,0,441,573,0
+1400000US24009860702,"Census Tract 8607.02, Calvert County, Maryland",1063,null,691,0,691,372,0
+1400000US24009860703,"Census Tract 8607.03, Calvert County, Maryland",1343,null,369,0,369,974,0
+1400000US24009860801,"Census Tract 8608.01, Calvert County, Maryland",2358,null,69,0,69,2289,0
+1400000US24009860802,"Census Tract 8608.02, Calvert County, Maryland",2095,null,1578,0,1578,517,0
+1400000US24009860900,"Census Tract 8609, Calvert County, Maryland",3526,null,2801,2007,794,725,0
+1400000US24009861001,"Census Tract 8610.01, Calvert County, Maryland",564,null,485,480,5,79,0
+1400000US24009861003,"Census Tract 8610.03, Calvert County, Maryland",2647,null,2647,2647,0,0,0
+1400000US24009861004,"Census Tract 8610.04, Calvert County, Maryland",2557,null,2557,2557,0,0,0
+1400000US24009990100,"Census Tract 9901, Calvert County, Maryland",0,null,0,0,0,0,0
+1400000US24011955000,"Census Tract 9550, Caroline County, Maryland",1205,null,0,0,0,1205,0
+1400000US24011955100,"Census Tract 9551, Caroline County, Maryland",2267,null,0,0,0,2267,0
+1400000US24011955201,"Census Tract 9552.01, Caroline County, Maryland",1440,null,0,0,0,1440,0
+1400000US24011955202,"Census Tract 9552.02, Caroline County, Maryland",866,null,0,0,0,866,0
+1400000US24011955301,"Census Tract 9553.01, Caroline County, Maryland",1622,null,596,0,596,1026,0
+1400000US24011955302,"Census Tract 9553.02, Caroline County, Maryland",1326,null,1326,0,1326,0,0
+1400000US24011955400,"Census Tract 9554, Caroline County, Maryland",896,null,0,0,0,896,0
+1400000US24011955500,"Census Tract 9555, Caroline County, Maryland",1770,null,0,0,0,1770,0
+1400000US24011955600,"Census Tract 9556, Caroline County, Maryland",2090,null,1387,0,1387,703,0
+1400000US24013501001,"Census Tract 5010.01, Carroll County, Maryland",1447,null,1216,0,1216,231,0
+1400000US24013501002,"Census Tract 5010.02, Carroll County, Maryland",2228,null,1294,0,1294,934,0
+1400000US24013502000,"Census Tract 5020, Carroll County, Maryland",1608,null,15,15,0,1593,0
+1400000US24013503000,"Census Tract 5030, Carroll County, Maryland",2064,null,0,0,0,2064,0
+1400000US24013504100,"Census Tract 5041, Carroll County, Maryland",1927,null,1152,1152,0,775,0
+1400000US24013504201,"Census Tract 5042.01, Carroll County, Maryland",2288,null,1703,1703,0,585,0
+1400000US24013504202,"Census Tract 5042.02, Carroll County, Maryland",2228,null,1165,1165,0,1063,0
+1400000US24013505101,"Census Tract 5051.01, Carroll County, Maryland",1406,null,1362,1362,0,44,0
+1400000US24013505102,"Census Tract 5051.02, Carroll County, Maryland",1802,null,1520,1520,0,282,0
+1400000US24013505203,"Census Tract 5052.03, Carroll County, Maryland",1082,null,1082,1082,0,0,0
+1400000US24013505205,"Census Tract 5052.05, Carroll County, Maryland",1057,null,1057,1057,0,0,0
+1400000US24013505206,"Census Tract 5052.06, Carroll County, Maryland",1323,null,1124,1124,0,199,0
+1400000US24013505207,"Census Tract 5052.07, Carroll County, Maryland",1344,null,1344,1344,0,0,0
+1400000US24013505208,"Census Tract 5052.08, Carroll County, Maryland",2064,null,2064,2064,0,0,0
+1400000US24013506101,"Census Tract 5061.01, Carroll County, Maryland",1637,null,799,0,799,838,0
+1400000US24013506102,"Census Tract 5061.02, Carroll County, Maryland",1403,null,657,37,620,746,0
+1400000US24013506200,"Census Tract 5062, Carroll County, Maryland",2051,null,470,0,470,1581,0
+1400000US24013507500,"Census Tract 5075, Carroll County, Maryland",1152,null,650,650,0,502,0
+1400000US24013507601,"Census Tract 5076.01, Carroll County, Maryland",1881,null,1463,1463,0,418,0
+1400000US24013507602,"Census Tract 5076.02, Carroll County, Maryland",1882,null,1663,1663,0,219,0
+1400000US24013507702,"Census Tract 5077.02, Carroll County, Maryland",1781,null,1498,1498,0,283,0
+1400000US24013507703,"Census Tract 5077.03, Carroll County, Maryland",1322,null,1322,1322,0,0,0
+1400000US24013507704,"Census Tract 5077.04, Carroll County, Maryland",2221,null,2221,2221,0,0,0
+1400000US24013507801,"Census Tract 5078.01, Carroll County, Maryland",2473,null,2473,2473,0,0,0
+1400000US24013507802,"Census Tract 5078.02, Carroll County, Maryland",1791,null,1303,1303,0,488,0
+1400000US24013508101,"Census Tract 5081.01, Carroll County, Maryland",1828,null,1238,1238,0,590,0
+1400000US24013508102,"Census Tract 5081.02, Carroll County, Maryland",1184,null,1184,1184,0,0,0
+1400000US24013508200,"Census Tract 5082, Carroll County, Maryland",2659,null,1358,1358,0,1301,0
+1400000US24013509001,"Census Tract 5090.01, Carroll County, Maryland",1620,null,0,0,0,1620,0
+1400000US24013509002,"Census Tract 5090.02, Carroll County, Maryland",1032,null,0,0,0,1032,0
+1400000US24013510000,"Census Tract 5100, Carroll County, Maryland",545,null,0,0,0,545,0
+1400000US24013511000,"Census Tract 5110, Carroll County, Maryland",1459,null,0,0,0,1459,0
+1400000US24013512000,"Census Tract 5120, Carroll County, Maryland",664,null,0,0,0,664,0
+1400000US24013513001,"Census Tract 5130.01, Carroll County, Maryland",1805,null,1627,1627,0,178,0
+1400000US24013513002,"Census Tract 5130.02, Carroll County, Maryland",1727,null,916,916,0,811,0
+1400000US24013514100,"Census Tract 5141, Carroll County, Maryland",1281,null,385,385,0,896,0
+1400000US24013514201,"Census Tract 5142.01, Carroll County, Maryland",1882,null,0,0,0,1882,0
+1400000US24013514202,"Census Tract 5142.02, Carroll County, Maryland",1258,null,577,577,0,681,0
+1400000US24015030100,"Census Tract 301, Cecil County, Maryland",2880,null,0,0,0,2880,0
+1400000US24015030200,"Census Tract 302, Cecil County, Maryland",2554,null,248,248,0,2306,0
+1400000US24015030400,"Census Tract 304, Cecil County, Maryland",1985,null,1985,1985,0,0,0
+1400000US24015030501,"Census Tract 305.01, Cecil County, Maryland",1555,null,1095,1095,0,460,0
+1400000US24015030503,"Census Tract 305.03, Cecil County, Maryland",2222,null,1628,1628,0,594,0
+1400000US24015030505,"Census Tract 305.05, Cecil County, Maryland",1489,null,1248,1248,0,241,0
+1400000US24015030506,"Census Tract 305.06, Cecil County, Maryland",3106,null,3106,3106,0,0,0
+1400000US24015030601,"Census Tract 306.01, Cecil County, Maryland",1405,null,90,90,0,1315,0
+1400000US24015030602,"Census Tract 306.02, Cecil County, Maryland",1875,null,1549,1549,0,326,0
+1400000US24015030700,"Census Tract 307, Cecil County, Maryland",1712,null,111,111,0,1601,0
+1400000US24015030903,"Census Tract 309.03, Cecil County, Maryland",2206,null,1992,1992,0,214,0
+1400000US24015030904,"Census Tract 309.04, Cecil County, Maryland",2854,null,837,837,0,2017,0
+1400000US24015030905,"Census Tract 309.05, Cecil County, Maryland",1036,null,344,344,0,692,0
+1400000US24015030906,"Census Tract 309.06, Cecil County, Maryland",3781,null,2953,2953,0,828,0
+1400000US24015031201,"Census Tract 312.01, Cecil County, Maryland",2570,null,1761,1761,0,809,0
+1400000US24015031202,"Census Tract 312.02, Cecil County, Maryland",2301,null,2235,2235,0,66,0
+1400000US24015031301,"Census Tract 313.01, Cecil County, Maryland",1239,null,346,346,0,893,0
+1400000US24015031302,"Census Tract 313.02, Cecil County, Maryland",2817,null,1868,1868,0,949,0
+1400000US24015031400,"Census Tract 314, Cecil County, Maryland",1516,null,0,0,0,1516,0
+1400000US24017850101,"Census Tract 8501.01, Charles County, Maryland",2044,null,1790,1790,0,254,0
+1400000US24017850102,"Census Tract 8501.02, Charles County, Maryland",991,null,518,518,0,473,0
+1400000US24017850201,"Census Tract 8502.01, Charles County, Maryland",260,null,232,232,0,28,0
+1400000US24017850202,"Census Tract 8502.02, Charles County, Maryland",1997,null,1997,1997,0,0,0
+1400000US24017850300,"Census Tract 8503, Charles County, Maryland",817,null,0,0,0,817,0
+1400000US24017850400,"Census Tract 8504, Charles County, Maryland",1602,null,0,0,0,1602,0
+1400000US24017850500,"Census Tract 8505, Charles County, Maryland",1113,null,0,0,0,1113,0
+1400000US24017850600,"Census Tract 8506, Charles County, Maryland",1704,null,326,326,0,1378,0
+1400000US24017850706,"Census Tract 8507.06, Charles County, Maryland",1602,null,1602,1602,0,0,0
+1400000US24017850708,"Census Tract 8507.08, Charles County, Maryland",1758,null,1758,1758,0,0,0
+1400000US24017850709,"Census Tract 8507.09, Charles County, Maryland",2528,null,2528,2528,0,0,0
+1400000US24017850710,"Census Tract 8507.10, Charles County, Maryland",1697,null,1697,1697,0,0,0
+1400000US24017850711,"Census Tract 8507.11, Charles County, Maryland",1889,null,1889,1889,0,0,0
+1400000US24017850712,"Census Tract 8507.12, Charles County, Maryland",1974,null,1648,1648,0,326,0
+1400000US24017850713,"Census Tract 8507.13, Charles County, Maryland",2213,null,2203,2203,0,10,0
+1400000US24017850801,"Census Tract 8508.01, Charles County, Maryland",1702,null,1702,1702,0,0,0
+1400000US24017850802,"Census Tract 8508.02, Charles County, Maryland",1551,null,1111,1111,0,440,0
+1400000US24017850901,"Census Tract 8509.01, Charles County, Maryland",2392,null,2392,2392,0,0,0
+1400000US24017850902,"Census Tract 8509.02, Charles County, Maryland",1884,null,1884,1884,0,0,0
+1400000US24017850904,"Census Tract 8509.04, Charles County, Maryland",2156,null,1751,1751,0,405,0
+1400000US24017850905,"Census Tract 8509.05, Charles County, Maryland",1622,null,1622,1622,0,0,0
+1400000US24017850906,"Census Tract 8509.06, Charles County, Maryland",2163,null,2163,2163,0,0,0
+1400000US24017851001,"Census Tract 8510.01, Charles County, Maryland",1126,null,944,944,0,182,0
+1400000US24017851002,"Census Tract 8510.02, Charles County, Maryland",3537,null,2972,2972,0,565,0
+1400000US24017851100,"Census Tract 8511, Charles County, Maryland",1070,null,51,51,0,1019,0
+1400000US24017851200,"Census Tract 8512, Charles County, Maryland",2358,null,187,0,187,2171,0
+1400000US24017851301,"Census Tract 8513.01, Charles County, Maryland",1557,null,0,0,0,1557,0
+1400000US24017851302,"Census Tract 8513.02, Charles County, Maryland",1384,null,65,65,0,1319,0
+1400000US24017851400,"Census Tract 8514, Charles County, Maryland",2871,null,1,1,0,2870,0
+1400000US24017851500,"Census Tract 8515, Charles County, Maryland",3401,null,3401,3401,0,0,0
+1400000US24017990000,"Census Tract 9900, Charles County, Maryland",0,null,0,0,0,0,0
+1400000US24019970100,"Census Tract 9701, Dorchester County, Maryland",1282,null,9,0,9,1273,0
+1400000US24019970200,"Census Tract 9702, Dorchester County, Maryland",2484,null,0,0,0,2484,0
+1400000US24019970300,"Census Tract 9703, Dorchester County, Maryland",2131,null,128,0,128,2003,0
+1400000US24019970400,"Census Tract 9704, Dorchester County, Maryland",2080,null,2080,0,2080,0,0
+1400000US24019970500,"Census Tract 9705, Dorchester County, Maryland",1894,null,1894,0,1894,0,0
+1400000US24019970600,"Census Tract 9706, Dorchester County, Maryland",2200,null,2131,0,2131,69,0
+1400000US24019970702,"Census Tract 9707.02, Dorchester County, Maryland",2115,null,955,0,955,1160,0
+1400000US24019970804,"Census Tract 9708.04, Dorchester County, Maryland",1334,null,0,0,0,1334,0
+1400000US24019970900,"Census Tract 9709, Dorchester County, Maryland",1034,null,0,0,0,1034,0
+1400000US24019990000,"Census Tract 9900, Dorchester County, Maryland",0,null,0,0,0,0,0
+1400000US24021740200,"Census Tract 7402, Frederick County, Maryland",1742,null,1469,1469,0,273,0
+1400000US24021750100,"Census Tract 7501, Frederick County, Maryland",711,null,711,711,0,0,0
+1400000US24021750200,"Census Tract 7502, Frederick County, Maryland",1077,null,1077,1077,0,0,0
+1400000US24021750300,"Census Tract 7503, Frederick County, Maryland",881,null,881,881,0,0,0
+1400000US24021750503,"Census Tract 7505.03, Frederick County, Maryland",2637,null,2637,2637,0,0,0
+1400000US24021750504,"Census Tract 7505.04, Frederick County, Maryland",2327,null,2327,2327,0,0,0
+1400000US24021750505,"Census Tract 7505.05, Frederick County, Maryland",2484,null,2484,2484,0,0,0
+1400000US24021750506,"Census Tract 7505.06, Frederick County, Maryland",1303,null,1303,1303,0,0,0
+1400000US24021750600,"Census Tract 7506, Frederick County, Maryland",1079,null,1079,1079,0,0,0
+1400000US24021750701,"Census Tract 7507.01, Frederick County, Maryland",1859,null,1859,1859,0,0,0
+1400000US24021750702,"Census Tract 7507.02, Frederick County, Maryland",1590,null,1590,1590,0,0,0
+1400000US24021750801,"Census Tract 7508.01, Frederick County, Maryland",1560,null,1560,1560,0,0,0
+1400000US24021750802,"Census Tract 7508.02, Frederick County, Maryland",1956,null,1956,1956,0,0,0
+1400000US24021750803,"Census Tract 7508.03, Frederick County, Maryland",2405,null,2405,2405,0,0,0
+1400000US24021751001,"Census Tract 7510.01, Frederick County, Maryland",365,null,365,365,0,0,0
+1400000US24021751002,"Census Tract 7510.02, Frederick County, Maryland",2229,null,2229,2229,0,0,0
+1400000US24021751003,"Census Tract 7510.03, Frederick County, Maryland",2329,null,2329,2329,0,0,0
+1400000US24021751004,"Census Tract 7510.04, Frederick County, Maryland",1690,null,1495,1495,0,195,0
+1400000US24021751201,"Census Tract 7512.01, Frederick County, Maryland",1682,null,1681,1681,0,1,0
+1400000US24021751202,"Census Tract 7512.02, Frederick County, Maryland",2513,null,2513,2513,0,0,0
+1400000US24021751203,"Census Tract 7512.03, Frederick County, Maryland",849,null,623,623,0,226,0
+1400000US24021751301,"Census Tract 7513.01, Frederick County, Maryland",1402,null,800,800,0,602,0
+1400000US24021751302,"Census Tract 7513.02, Frederick County, Maryland",1249,null,24,2,22,1225,0
+1400000US24021751600,"Census Tract 7516, Frederick County, Maryland",1120,null,0,0,0,1120,0
+1400000US24021751701,"Census Tract 7517.01, Frederick County, Maryland",888,null,30,30,0,858,0
+1400000US24021751702,"Census Tract 7517.02, Frederick County, Maryland",1385,null,0,0,0,1385,0
+1400000US24021751801,"Census Tract 7518.01, Frederick County, Maryland",1486,null,1043,1043,0,443,0
+1400000US24021751802,"Census Tract 7518.02, Frederick County, Maryland",1335,null,220,220,0,1115,0
+1400000US24021751901,"Census Tract 7519.01, Frederick County, Maryland",1478,null,1474,1474,0,4,0
+1400000US24021751902,"Census Tract 7519.02, Frederick County, Maryland",2146,null,2146,2146,0,0,0
+1400000US24021751903,"Census Tract 7519.03, Frederick County, Maryland",2112,null,1712,1712,0,400,0
+1400000US24021751904,"Census Tract 7519.04, Frederick County, Maryland",1102,null,730,730,0,372,0
+1400000US24021752001,"Census Tract 7520.01, Frederick County, Maryland",1686,null,1485,1485,0,201,0
+1400000US24021752101,"Census Tract 7521.01, Frederick County, Maryland",1093,null,911,911,0,182,0
+1400000US24021752102,"Census Tract 7521.02, Frederick County, Maryland",1530,null,1020,1020,0,510,0
+1400000US24021752201,"Census Tract 7522.01, Frederick County, Maryland",799,null,0,0,0,799,0
+1400000US24021752202,"Census Tract 7522.02, Frederick County, Maryland",1215,null,1215,1215,0,0,0
+1400000US24021752204,"Census Tract 7522.04, Frederick County, Maryland",1927,null,1576,1576,0,351,0
+1400000US24021752301,"Census Tract 7523.01, Frederick County, Maryland",1448,null,1448,1448,0,0,0
+1400000US24021752302,"Census Tract 7523.02, Frederick County, Maryland",1547,null,537,537,0,1010,0
+1400000US24021752303,"Census Tract 7523.03, Frederick County, Maryland",979,null,59,59,0,920,0
+1400000US24021752501,"Census Tract 7525.01, Frederick County, Maryland",1898,null,987,987,0,911,0
+1400000US24021752502,"Census Tract 7525.02, Frederick County, Maryland",888,null,48,48,0,840,0
+1400000US24021752601,"Census Tract 7526.01, Frederick County, Maryland",1507,null,1395,1395,0,112,0
+1400000US24021752602,"Census Tract 7526.02, Frederick County, Maryland",1065,null,559,559,0,506,0
+1400000US24021752603,"Census Tract 7526.03, Frederick County, Maryland",1402,null,1399,1399,0,3,0
+1400000US24021752801,"Census Tract 7528.01, Frederick County, Maryland",872,null,0,0,0,872,0
+1400000US24021752802,"Census Tract 7528.02, Frederick County, Maryland",1319,null,0,0,0,1319,0
+1400000US24021752900,"Census Tract 7529, Frederick County, Maryland",1281,null,232,0,232,1049,0
+1400000US24021753001,"Census Tract 7530.01, Frederick County, Maryland",1839,null,1524,0,1524,315,0
+1400000US24021753002,"Census Tract 7530.02, Frederick County, Maryland",1102,null,978,0,978,124,0
+1400000US24021765100,"Census Tract 7651, Frederick County, Maryland",1725,null,1725,1725,0,0,0
+1400000US24021766800,"Census Tract 7668, Frederick County, Maryland",1510,null,1229,0,1229,281,0
+1400000US24021767500,"Census Tract 7675, Frederick County, Maryland",1155,null,31,0,31,1124,0
+1400000US24021767600,"Census Tract 7676, Frederick County, Maryland",1215,null,504,504,0,711,0
+1400000US24021770700,"Census Tract 7707, Frederick County, Maryland",1364,null,60,60,0,1304,0
+1400000US24021772200,"Census Tract 7722, Frederick County, Maryland",789,null,789,789,0,0,0
+1400000US24021773500,"Census Tract 7735, Frederick County, Maryland",1524,null,1495,1495,0,29,0
+1400000US24021775302,"Census Tract 7753.02, Frederick County, Maryland",1448,null,1015,0,1015,433,0
+1400000US24021775400,"Census Tract 7754, Frederick County, Maryland",1641,null,1641,0,1641,0,0
+1400000US24021775600,"Census Tract 7756, Frederick County, Maryland",1397,null,1286,1286,0,111,0
+1400000US24023000100,"Census Tract 1, Garrett County, Maryland",2230,null,0,0,0,2230,0
+1400000US24023000200,"Census Tract 2, Garrett County, Maryland",1770,null,0,0,0,1770,0
+1400000US24023000300,"Census Tract 3, Garrett County, Maryland",1277,null,0,0,0,1277,0
+1400000US24023000400,"Census Tract 4, Garrett County, Maryland",1542,null,60,0,60,1482,0
+1400000US24023000500,"Census Tract 5, Garrett County, Maryland",6245,null,0,0,0,6245,0
+1400000US24023000600,"Census Tract 6, Garrett County, Maryland",3248,null,966,0,966,2282,0
+1400000US24023000700,"Census Tract 7, Garrett County, Maryland",2542,null,1290,0,1290,1252,0
+1400000US24025301102,"Census Tract 3011.02, Harford County, Maryland",1294,null,855,855,0,439,0
+1400000US24025301105,"Census Tract 3011.05, Harford County, Maryland",1423,null,1423,1423,0,0,0
+1400000US24025301106,"Census Tract 3011.06, Harford County, Maryland",1511,null,1511,1511,0,0,0
+1400000US24025301107,"Census Tract 3011.07, Harford County, Maryland",1614,null,1614,1614,0,0,0
+1400000US24025301108,"Census Tract 3011.08, Harford County, Maryland",1156,null,1156,1156,0,0,0
+1400000US24025301201,"Census Tract 3012.01, Harford County, Maryland",813,null,199,199,0,614,0
+1400000US24025301202,"Census Tract 3012.02, Harford County, Maryland",2600,null,2600,2600,0,0,0
+1400000US24025301204,"Census Tract 3012.04, Harford County, Maryland",1657,null,1657,1657,0,0,0
+1400000US24025301205,"Census Tract 3012.05, Harford County, Maryland",1811,null,1811,1811,0,0,0
+1400000US24025301301,"Census Tract 3013.01, Harford County, Maryland",1826,null,1826,1826,0,0,0
+1400000US24025301302,"Census Tract 3013.02, Harford County, Maryland",2906,null,2906,2906,0,0,0
+1400000US24025301401,"Census Tract 3014.01, Harford County, Maryland",3176,null,3176,3176,0,0,0
+1400000US24025301402,"Census Tract 3014.02, Harford County, Maryland",927,null,927,927,0,0,0
+1400000US24025301601,"Census Tract 3016.01, Harford County, Maryland",2437,null,2437,2437,0,0,0
+1400000US24025301602,"Census Tract 3016.02, Harford County, Maryland",2804,null,2804,2804,0,0,0
+1400000US24025301702,"Census Tract 3017.02, Harford County, Maryland",3225,null,3225,3225,0,0,0
+1400000US24025301703,"Census Tract 3017.03, Harford County, Maryland",1693,null,1693,1693,0,0,0
+1400000US24025301704,"Census Tract 3017.04, Harford County, Maryland",1434,null,1434,1434,0,0,0
+1400000US24025302100,"Census Tract 3021, Harford County, Maryland",833,null,10,10,0,823,0
+1400000US24025302200,"Census Tract 3022, Harford County, Maryland",1043,null,260,260,0,783,0
+1400000US24025302400,"Census Tract 3024, Harford County, Maryland",1186,null,1120,1120,0,66,0
+1400000US24025302801,"Census Tract 3028.01, Harford County, Maryland",1476,null,1328,1328,0,148,0
+1400000US24025302802,"Census Tract 3028.02, Harford County, Maryland",2027,null,2027,2027,0,0,0
+1400000US24025302901,"Census Tract 3029.01, Harford County, Maryland",1029,null,1029,1029,0,0,0
+1400000US24025302902,"Census Tract 3029.02, Harford County, Maryland",1890,null,1890,1890,0,0,0
+1400000US24025303101,"Census Tract 3031.01, Harford County, Maryland",2122,null,1308,1308,0,814,0
+1400000US24025303102,"Census Tract 3031.02, Harford County, Maryland",965,null,0,0,0,965,0
+1400000US24025303201,"Census Tract 3032.01, Harford County, Maryland",1959,null,1245,1245,0,714,0
+1400000US24025303203,"Census Tract 3032.03, Harford County, Maryland",1449,null,1449,1449,0,0,0
+1400000US24025303204,"Census Tract 3032.04, Harford County, Maryland",1746,null,1746,1746,0,0,0
+1400000US24025303205,"Census Tract 3032.05, Harford County, Maryland",501,null,501,501,0,0,0
+1400000US24025303206,"Census Tract 3032.06, Harford County, Maryland",1222,null,1222,1222,0,0,0
+1400000US24025303300,"Census Tract 3033, Harford County, Maryland",2209,null,1927,1927,0,282,0
+1400000US24025303400,"Census Tract 3034, Harford County, Maryland",1535,null,1457,1457,0,78,0
+1400000US24025303501,"Census Tract 3035.01, Harford County, Maryland",2601,null,2601,2601,0,0,0
+1400000US24025303502,"Census Tract 3035.02, Harford County, Maryland",1368,null,1368,1368,0,0,0
+1400000US24025303602,"Census Tract 3036.02, Harford County, Maryland",1405,null,1405,1405,0,0,0
+1400000US24025303603,"Census Tract 3036.03, Harford County, Maryland",2213,null,2213,2213,0,0,0
+1400000US24025303605,"Census Tract 3036.05, Harford County, Maryland",2659,null,2659,2659,0,0,0
+1400000US24025303606,"Census Tract 3036.06, Harford County, Maryland",1042,null,1042,1042,0,0,0
+1400000US24025303700,"Census Tract 3037, Harford County, Maryland",1530,null,566,566,0,964,0
+1400000US24025303801,"Census Tract 3038.01, Harford County, Maryland",1297,null,1297,1297,0,0,0
+1400000US24025303802,"Census Tract 3038.02, Harford County, Maryland",801,null,801,801,0,0,0
+1400000US24025303803,"Census Tract 3038.03, Harford County, Maryland",2193,null,2193,2193,0,0,0
+1400000US24025303900,"Census Tract 3039, Harford County, Maryland",1000,null,1000,1000,0,0,0
+1400000US24025304101,"Census Tract 3041.01, Harford County, Maryland",1644,null,0,0,0,1644,0
+1400000US24025304102,"Census Tract 3041.02, Harford County, Maryland",1379,null,0,0,0,1379,0
+1400000US24025304201,"Census Tract 3042.01, Harford County, Maryland",2321,null,1350,1350,0,971,0
+1400000US24025304202,"Census Tract 3042.02, Harford County, Maryland",2409,null,1356,1356,0,1053,0
+1400000US24025305100,"Census Tract 3051, Harford County, Maryland",2738,null,0,0,0,2738,0
+1400000US24025305200,"Census Tract 3052, Harford County, Maryland",1131,null,0,0,0,1131,0
+1400000US24025305300,"Census Tract 3053, Harford County, Maryland",897,null,0,0,0,897,0
+1400000US24025306100,"Census Tract 3061, Harford County, Maryland",1995,null,1995,1995,0,0,0
+1400000US24025306200,"Census Tract 3062, Harford County, Maryland",1154,null,1154,1154,0,0,0
+1400000US24025306300,"Census Tract 3063, Harford County, Maryland",1054,null,922,922,0,132,0
+1400000US24025306400,"Census Tract 3064, Harford County, Maryland",2357,null,2321,2321,0,36,0
+1400000US24025306500,"Census Tract 3065, Harford County, Maryland",867,null,692,692,0,175,0
+1400000US24027601103,"Census Tract 6011.03, Howard County, Maryland",2072,null,2072,2072,0,0,0
+1400000US24027601104,"Census Tract 6011.04, Howard County, Maryland",1736,null,1736,1736,0,0,0
+1400000US24027601105,"Census Tract 6011.05, Howard County, Maryland",1674,null,1674,1674,0,0,0
+1400000US24027601107,"Census Tract 6011.07, Howard County, Maryland",1807,null,1807,1807,0,0,0
+1400000US24027601108,"Census Tract 6011.08, Howard County, Maryland",1520,null,1520,1520,0,0,0
+1400000US24027601201,"Census Tract 6012.01, Howard County, Maryland",3007,null,3007,3007,0,0,0
+1400000US24027601203,"Census Tract 6012.03, Howard County, Maryland",1044,null,1044,1044,0,0,0
+1400000US24027601204,"Census Tract 6012.04, Howard County, Maryland",2025,null,2025,2025,0,0,0
+1400000US24027602100,"Census Tract 6021, Howard County, Maryland",2571,null,2571,2571,0,0,0
+1400000US24027602201,"Census Tract 6022.01, Howard County, Maryland",1123,null,1123,1123,0,0,0
+1400000US24027602202,"Census Tract 6022.02, Howard County, Maryland",1951,null,1951,1951,0,0,0
+1400000US24027602302,"Census Tract 6023.02, Howard County, Maryland",2515,null,2515,2515,0,0,0
+1400000US24027602303,"Census Tract 6023.03, Howard County, Maryland",1246,null,1174,1174,0,72,0
+1400000US24027602304,"Census Tract 6023.04, Howard County, Maryland",1585,null,1585,1585,0,0,0
+1400000US24027602305,"Census Tract 6023.05, Howard County, Maryland",1267,null,1267,1267,0,0,0
+1400000US24027602306,"Census Tract 6023.06, Howard County, Maryland",2264,null,2264,2264,0,0,0
+1400000US24027602600,"Census Tract 6026, Howard County, Maryland",2997,null,2997,2997,0,0,0
+1400000US24027602700,"Census Tract 6027, Howard County, Maryland",1791,null,1791,1791,0,0,0
+1400000US24027602800,"Census Tract 6028, Howard County, Maryland",2242,null,2242,2242,0,0,0
+1400000US24027602900,"Census Tract 6029, Howard County, Maryland",1829,null,1829,1829,0,0,0
+1400000US24027603001,"Census Tract 6030.01, Howard County, Maryland",2070,null,1527,1527,0,543,0
+1400000US24027603003,"Census Tract 6030.03, Howard County, Maryland",1400,null,296,0,296,1104,0
+1400000US24027603004,"Census Tract 6030.04, Howard County, Maryland",2132,null,1133,925,208,999,0
+1400000US24027604001,"Census Tract 6040.01, Howard County, Maryland",2119,null,0,0,0,2119,0
+1400000US24027604002,"Census Tract 6040.02, Howard County, Maryland",2557,null,640,10,630,1917,0
+1400000US24027605102,"Census Tract 6051.02, Howard County, Maryland",2732,null,2268,2268,0,464,0
+1400000US24027605103,"Census Tract 6051.03, Howard County, Maryland",1693,null,1238,1238,0,455,0
+1400000US24027605104,"Census Tract 6051.04, Howard County, Maryland",1445,null,157,85,72,1288,0
+1400000US24027605401,"Census Tract 6054.01, Howard County, Maryland",2492,null,2492,2492,0,0,0
+1400000US24027605402,"Census Tract 6054.02, Howard County, Maryland",3877,null,3877,3877,0,0,0
+1400000US24027605502,"Census Tract 6055.02, Howard County, Maryland",2197,null,2197,2197,0,0,0
+1400000US24027605503,"Census Tract 6055.03, Howard County, Maryland",2537,null,2537,2537,0,0,0
+1400000US24027605504,"Census Tract 6055.04, Howard County, Maryland",778,null,778,778,0,0,0
+1400000US24027605505,"Census Tract 6055.05, Howard County, Maryland",1874,null,1874,1874,0,0,0
+1400000US24027605601,"Census Tract 6056.01, Howard County, Maryland",2856,null,2856,2856,0,0,0
+1400000US24027605602,"Census Tract 6056.02, Howard County, Maryland",3074,null,3074,3074,0,0,0
+1400000US24027606601,"Census Tract 6066.01, Howard County, Maryland",1066,null,1066,1066,0,0,0
+1400000US24027606603,"Census Tract 6066.03, Howard County, Maryland",3070,null,3070,3070,0,0,0
+1400000US24027606604,"Census Tract 6066.04, Howard County, Maryland",1636,null,1636,1636,0,0,0
+1400000US24027606606,"Census Tract 6066.06, Howard County, Maryland",2094,null,2094,2094,0,0,0
+1400000US24027606607,"Census Tract 6066.07, Howard County, Maryland",1607,null,1607,1607,0,0,0
+1400000US24027606701,"Census Tract 6067.01, Howard County, Maryland",963,null,963,963,0,0,0
+1400000US24027606704,"Census Tract 6067.04, Howard County, Maryland",2770,null,2770,2770,0,0,0
+1400000US24027606705,"Census Tract 6067.05, Howard County, Maryland",859,null,859,859,0,0,0
+1400000US24027606706,"Census Tract 6067.06, Howard County, Maryland",1956,null,1956,1956,0,0,0
+1400000US24027606707,"Census Tract 6067.07, Howard County, Maryland",1510,null,1510,1510,0,0,0
+1400000US24027606803,"Census Tract 6068.03, Howard County, Maryland",2471,null,2471,2471,0,0,0
+1400000US24027606804,"Census Tract 6068.04, Howard County, Maryland",1321,null,1321,1321,0,0,0
+1400000US24027606805,"Census Tract 6068.05, Howard County, Maryland",1320,null,1320,1320,0,0,0
+1400000US24027606806,"Census Tract 6068.06, Howard County, Maryland",2184,null,2184,2184,0,0,0
+1400000US24027606901,"Census Tract 6069.01, Howard County, Maryland",2086,null,2086,2086,0,0,0
+1400000US24027606904,"Census Tract 6069.04, Howard County, Maryland",1465,null,1465,1465,0,0,0
+1400000US24027606905,"Census Tract 6069.05, Howard County, Maryland",2538,null,2538,2538,0,0,0
+1400000US24027606906,"Census Tract 6069.06, Howard County, Maryland",1999,null,1999,1999,0,0,0
+1400000US24027606907,"Census Tract 6069.07, Howard County, Maryland",2268,null,2268,2268,0,0,0
+1400000US24029950100,"Census Tract 9501, Kent County, Maryland",1796,null,0,0,0,1796,0
+1400000US24029950200,"Census Tract 9502, Kent County, Maryland",2640,null,0,0,0,2640,0
+1400000US24029950300,"Census Tract 9503, Kent County, Maryland",2574,null,2421,0,2421,153,0
+1400000US24029950400,"Census Tract 9504, Kent County, Maryland",1769,null,68,0,68,1701,0
+1400000US24029950500,"Census Tract 9505, Kent County, Maryland",1770,null,0,0,0,1770,0
+1400000US24029990000,"Census Tract 9900, Kent County, Maryland",0,null,0,0,0,0,0
+1400000US24031700101,"Census Tract 7001.01, Montgomery County, Maryland",1436,null,1156,1156,0,280,0
+1400000US24031700103,"Census Tract 7001.03, Montgomery County, Maryland",1913,null,1166,1166,0,747,0
+1400000US24031700104,"Census Tract 7001.04, Montgomery County, Maryland",1923,null,1923,1923,0,0,0
+1400000US24031700105,"Census Tract 7001.05, Montgomery County, Maryland",2116,null,2116,2116,0,0,0
+1400000US24031700204,"Census Tract 7002.04, Montgomery County, Maryland",796,null,187,187,0,609,0
+1400000US24031700205,"Census Tract 7002.05, Montgomery County, Maryland",2065,null,1742,1742,0,323,0
+1400000US24031700206,"Census Tract 7002.06, Montgomery County, Maryland",1887,null,1765,1765,0,122,0
+1400000US24031700207,"Census Tract 7002.07, Montgomery County, Maryland",2013,null,2013,2013,0,0,0
+1400000US24031700208,"Census Tract 7002.08, Montgomery County, Maryland",773,null,368,368,0,405,0
+1400000US24031700304,"Census Tract 7003.04, Montgomery County, Maryland",2678,null,2678,2678,0,0,0
+1400000US24031700306,"Census Tract 7003.06, Montgomery County, Maryland",2464,null,2464,2464,0,0,0
+1400000US24031700308,"Census Tract 7003.08, Montgomery County, Maryland",2427,null,2427,2427,0,0,0
+1400000US24031700309,"Census Tract 7003.09, Montgomery County, Maryland",2220,null,2220,2220,0,0,0
+1400000US24031700310,"Census Tract 7003.10, Montgomery County, Maryland",2395,null,2395,2395,0,0,0
+1400000US24031700311,"Census Tract 7003.11, Montgomery County, Maryland",2108,null,1989,1989,0,119,0
+1400000US24031700312,"Census Tract 7003.12, Montgomery County, Maryland",1840,null,1104,1104,0,736,0
+1400000US24031700400,"Census Tract 7004, Montgomery County, Maryland",926,null,0,0,0,926,0
+1400000US24031700500,"Census Tract 7005, Montgomery County, Maryland",2279,null,1582,0,1582,697,0
+1400000US24031700604,"Census Tract 7006.04, Montgomery County, Maryland",2275,null,1257,1257,0,1018,0
+1400000US24031700606,"Census Tract 7006.06, Montgomery County, Maryland",1459,null,1459,1459,0,0,0
+1400000US24031700607,"Census Tract 7006.07, Montgomery County, Maryland",2519,null,2519,2519,0,0,0
+1400000US24031700608,"Census Tract 7006.08, Montgomery County, Maryland",1891,null,1891,1891,0,0,0
+1400000US24031700610,"Census Tract 7006.10, Montgomery County, Maryland",703,null,703,703,0,0,0
+1400000US24031700611,"Census Tract 7006.11, Montgomery County, Maryland",1779,null,1718,1718,0,61,0
+1400000US24031700613,"Census Tract 7006.13, Montgomery County, Maryland",2097,null,2056,2056,0,41,0
+1400000US24031700614,"Census Tract 7006.14, Montgomery County, Maryland",2290,null,2290,2290,0,0,0
+1400000US24031700615,"Census Tract 7006.15, Montgomery County, Maryland",997,null,997,997,0,0,0
+1400000US24031700616,"Census Tract 7006.16, Montgomery County, Maryland",1538,null,1538,1538,0,0,0
+1400000US24031700704,"Census Tract 7007.04, Montgomery County, Maryland",1040,null,1040,1040,0,0,0
+1400000US24031700706,"Census Tract 7007.06, Montgomery County, Maryland",1316,null,1316,1316,0,0,0
+1400000US24031700710,"Census Tract 7007.10, Montgomery County, Maryland",2105,null,2105,2105,0,0,0
+1400000US24031700711,"Census Tract 7007.11, Montgomery County, Maryland",2050,null,2050,2050,0,0,0
+1400000US24031700713,"Census Tract 7007.13, Montgomery County, Maryland",2101,null,2101,2101,0,0,0
+1400000US24031700715,"Census Tract 7007.15, Montgomery County, Maryland",1769,null,1769,1769,0,0,0
+1400000US24031700716,"Census Tract 7007.16, Montgomery County, Maryland",2728,null,2728,2728,0,0,0
+1400000US24031700717,"Census Tract 7007.17, Montgomery County, Maryland",2050,null,2050,2050,0,0,0
+1400000US24031700718,"Census Tract 7007.18, Montgomery County, Maryland",2212,null,2212,2212,0,0,0
+1400000US24031700719,"Census Tract 7007.19, Montgomery County, Maryland",2497,null,2497,2497,0,0,0
+1400000US24031700720,"Census Tract 7007.20, Montgomery County, Maryland",1114,null,1114,1114,0,0,0
+1400000US24031700721,"Census Tract 7007.21, Montgomery County, Maryland",1440,null,1440,1440,0,0,0
+1400000US24031700722,"Census Tract 7007.22, Montgomery County, Maryland",1825,null,1825,1825,0,0,0
+1400000US24031700723,"Census Tract 7007.23, Montgomery County, Maryland",1981,null,1981,1981,0,0,0
+1400000US24031700724,"Census Tract 7007.24, Montgomery County, Maryland",1278,null,1278,1278,0,0,0
+1400000US24031700810,"Census Tract 7008.10, Montgomery County, Maryland",1816,null,1816,1816,0,0,0
+1400000US24031700811,"Census Tract 7008.11, Montgomery County, Maryland",1582,null,1582,1582,0,0,0
+1400000US24031700812,"Census Tract 7008.12, Montgomery County, Maryland",1777,null,1777,1777,0,0,0
+1400000US24031700813,"Census Tract 7008.13, Montgomery County, Maryland",2089,null,2089,2089,0,0,0
+1400000US24031700815,"Census Tract 7008.15, Montgomery County, Maryland",2585,null,2585,2585,0,0,0
+1400000US24031700816,"Census Tract 7008.16, Montgomery County, Maryland",2843,null,2843,2843,0,0,0
+1400000US24031700817,"Census Tract 7008.17, Montgomery County, Maryland",2643,null,2643,2643,0,0,0
+1400000US24031700818,"Census Tract 7008.18, Montgomery County, Maryland",2650,null,2650,2650,0,0,0
+1400000US24031700819,"Census Tract 7008.19, Montgomery County, Maryland",2499,null,2499,2499,0,0,0
+1400000US24031700820,"Census Tract 7008.20, Montgomery County, Maryland",1021,null,1021,1021,0,0,0
+1400000US24031700822,"Census Tract 7008.22, Montgomery County, Maryland",695,null,695,695,0,0,0
+1400000US24031700823,"Census Tract 7008.23, Montgomery County, Maryland",1225,null,1225,1225,0,0,0
+1400000US24031700824,"Census Tract 7008.24, Montgomery County, Maryland",1055,null,1055,1055,0,0,0
+1400000US24031700826,"Census Tract 7008.26, Montgomery County, Maryland",2860,null,2860,2860,0,0,0
+1400000US24031700828,"Census Tract 7008.28, Montgomery County, Maryland",881,null,881,881,0,0,0
+1400000US24031700829,"Census Tract 7008.29, Montgomery County, Maryland",1279,null,1279,1279,0,0,0
+1400000US24031700830,"Census Tract 7008.30, Montgomery County, Maryland",1051,null,1051,1051,0,0,0
+1400000US24031700832,"Census Tract 7008.32, Montgomery County, Maryland",1011,null,1011,1011,0,0,0
+1400000US24031700833,"Census Tract 7008.33, Montgomery County, Maryland",1328,null,1328,1328,0,0,0
+1400000US24031700834,"Census Tract 7008.34, Montgomery County, Maryland",1758,null,1758,1758,0,0,0
+1400000US24031700835,"Census Tract 7008.35, Montgomery County, Maryland",1325,null,1325,1325,0,0,0
+1400000US24031700901,"Census Tract 7009.01, Montgomery County, Maryland",2381,null,2381,2381,0,0,0
+1400000US24031700902,"Census Tract 7009.02, Montgomery County, Maryland",1282,null,1282,1282,0,0,0
+1400000US24031700903,"Census Tract 7009.03, Montgomery County, Maryland",712,null,712,712,0,0,0
+1400000US24031700904,"Census Tract 7009.04, Montgomery County, Maryland",1424,null,1424,1424,0,0,0
+1400000US24031700905,"Census Tract 7009.05, Montgomery County, Maryland",1760,null,1760,1760,0,0,0
+1400000US24031701001,"Census Tract 7010.01, Montgomery County, Maryland",2042,null,2042,2042,0,0,0
+1400000US24031701002,"Census Tract 7010.02, Montgomery County, Maryland",1316,null,1316,1316,0,0,0
+1400000US24031701004,"Census Tract 7010.04, Montgomery County, Maryland",1998,null,1998,1998,0,0,0
+1400000US24031701005,"Census Tract 7010.05, Montgomery County, Maryland",1234,null,1234,1234,0,0,0
+1400000US24031701006,"Census Tract 7010.06, Montgomery County, Maryland",1924,null,1924,1924,0,0,0
+1400000US24031701007,"Census Tract 7010.07, Montgomery County, Maryland",1440,null,1440,1440,0,0,0
+1400000US24031701101,"Census Tract 7011.01, Montgomery County, Maryland",1561,null,1561,1561,0,0,0
+1400000US24031701102,"Census Tract 7011.02, Montgomery County, Maryland",2176,null,2176,2176,0,0,0
+1400000US24031701201,"Census Tract 7012.01, Montgomery County, Maryland",2344,null,2344,2344,0,0,0
+1400000US24031701202,"Census Tract 7012.02, Montgomery County, Maryland",1078,null,1078,1078,0,0,0
+1400000US24031701205,"Census Tract 7012.05, Montgomery County, Maryland",2452,null,2452,2452,0,0,0
+1400000US24031701206,"Census Tract 7012.06, Montgomery County, Maryland",2252,null,2252,2252,0,0,0
+1400000US24031701210,"Census Tract 7012.10, Montgomery County, Maryland",1371,null,1371,1371,0,0,0
+1400000US24031701211,"Census Tract 7012.11, Montgomery County, Maryland",2525,null,2525,2525,0,0,0
+1400000US24031701212,"Census Tract 7012.12, Montgomery County, Maryland",928,null,725,725,0,203,0
+1400000US24031701213,"Census Tract 7012.13, Montgomery County, Maryland",3062,null,3062,3062,0,0,0
+1400000US24031701214,"Census Tract 7012.14, Montgomery County, Maryland",1618,null,1618,1618,0,0,0
+1400000US24031701215,"Census Tract 7012.15, Montgomery County, Maryland",2811,null,2811,2811,0,0,0
+1400000US24031701216,"Census Tract 7012.16, Montgomery County, Maryland",2577,null,2577,2577,0,0,0
+1400000US24031701218,"Census Tract 7012.18, Montgomery County, Maryland",1564,null,1564,1564,0,0,0
+1400000US24031701219,"Census Tract 7012.19, Montgomery County, Maryland",1525,null,1525,1525,0,0,0
+1400000US24031701220,"Census Tract 7012.20, Montgomery County, Maryland",1295,null,1295,1295,0,0,0
+1400000US24031701221,"Census Tract 7012.21, Montgomery County, Maryland",1665,null,1665,1665,0,0,0
+1400000US24031701303,"Census Tract 7013.03, Montgomery County, Maryland",1338,null,1338,1338,0,0,0
+1400000US24031701304,"Census Tract 7013.04, Montgomery County, Maryland",2128,null,2128,2128,0,0,0
+1400000US24031701306,"Census Tract 7013.06, Montgomery County, Maryland",1026,null,1026,1026,0,0,0
+1400000US24031701307,"Census Tract 7013.07, Montgomery County, Maryland",1202,null,980,980,0,222,0
+1400000US24031701308,"Census Tract 7013.08, Montgomery County, Maryland",1065,null,1065,1065,0,0,0
+1400000US24031701312,"Census Tract 7013.12, Montgomery County, Maryland",2086,null,2086,2086,0,0,0
+1400000US24031701313,"Census Tract 7013.13, Montgomery County, Maryland",1275,null,1275,1275,0,0,0
+1400000US24031701314,"Census Tract 7013.14, Montgomery County, Maryland",1064,null,1064,1064,0,0,0
+1400000US24031701315,"Census Tract 7013.15, Montgomery County, Maryland",1761,null,1761,1761,0,0,0
+1400000US24031701316,"Census Tract 7013.16, Montgomery County, Maryland",2241,null,1645,1645,0,596,0
+1400000US24031701317,"Census Tract 7013.17, Montgomery County, Maryland",1415,null,595,595,0,820,0
+1400000US24031701407,"Census Tract 7014.07, Montgomery County, Maryland",1881,null,1881,1881,0,0,0
+1400000US24031701408,"Census Tract 7014.08, Montgomery County, Maryland",2110,null,1767,1767,0,343,0
+1400000US24031701409,"Census Tract 7014.09, Montgomery County, Maryland",1387,null,1387,1387,0,0,0
+1400000US24031701410,"Census Tract 7014.10, Montgomery County, Maryland",2583,null,2489,2489,0,94,0
+1400000US24031701414,"Census Tract 7014.14, Montgomery County, Maryland",2578,null,2578,2578,0,0,0
+1400000US24031701415,"Census Tract 7014.15, Montgomery County, Maryland",2505,null,2505,2505,0,0,0
+1400000US24031701417,"Census Tract 7014.17, Montgomery County, Maryland",2812,null,2812,2812,0,0,0
+1400000US24031701418,"Census Tract 7014.18, Montgomery County, Maryland",1150,null,1150,1150,0,0,0
+1400000US24031701420,"Census Tract 7014.20, Montgomery County, Maryland",3397,null,3397,3397,0,0,0
+1400000US24031701421,"Census Tract 7014.21, Montgomery County, Maryland",559,null,559,559,0,0,0
+1400000US24031701422,"Census Tract 7014.22, Montgomery County, Maryland",1086,null,1086,1086,0,0,0
+1400000US24031701423,"Census Tract 7014.23, Montgomery County, Maryland",1750,null,1750,1750,0,0,0
+1400000US24031701503,"Census Tract 7015.03, Montgomery County, Maryland",2220,null,2220,2220,0,0,0
+1400000US24031701505,"Census Tract 7015.05, Montgomery County, Maryland",2704,null,2704,2704,0,0,0
+1400000US24031701506,"Census Tract 7015.06, Montgomery County, Maryland",1797,null,1797,1797,0,0,0
+1400000US24031701507,"Census Tract 7015.07, Montgomery County, Maryland",1799,null,1799,1799,0,0,0
+1400000US24031701508,"Census Tract 7015.08, Montgomery County, Maryland",1573,null,1573,1573,0,0,0
+1400000US24031701509,"Census Tract 7015.09, Montgomery County, Maryland",2373,null,2373,2373,0,0,0
+1400000US24031701601,"Census Tract 7016.01, Montgomery County, Maryland",772,null,772,772,0,0,0
+1400000US24031701602,"Census Tract 7016.02, Montgomery County, Maryland",1664,null,1664,1664,0,0,0
+1400000US24031701701,"Census Tract 7017.01, Montgomery County, Maryland",1577,null,1577,1577,0,0,0
+1400000US24031701702,"Census Tract 7017.02, Montgomery County, Maryland",1059,null,1059,1059,0,0,0
+1400000US24031701703,"Census Tract 7017.03, Montgomery County, Maryland",1374,null,1374,1374,0,0,0
+1400000US24031701704,"Census Tract 7017.04, Montgomery County, Maryland",1163,null,1163,1163,0,0,0
+1400000US24031701800,"Census Tract 7018, Montgomery County, Maryland",2004,null,2004,2004,0,0,0
+1400000US24031701900,"Census Tract 7019, Montgomery County, Maryland",1310,null,1310,1310,0,0,0
+1400000US24031702000,"Census Tract 7020, Montgomery County, Maryland",1474,null,1474,1474,0,0,0
+1400000US24031702101,"Census Tract 7021.01, Montgomery County, Maryland",1785,null,1785,1785,0,0,0
+1400000US24031702102,"Census Tract 7021.02, Montgomery County, Maryland",1138,null,1138,1138,0,0,0
+1400000US24031702200,"Census Tract 7022, Montgomery County, Maryland",1563,null,1563,1563,0,0,0
+1400000US24031702301,"Census Tract 7023.01, Montgomery County, Maryland",1460,null,1460,1460,0,0,0
+1400000US24031702302,"Census Tract 7023.02, Montgomery County, Maryland",1683,null,1683,1683,0,0,0
+1400000US24031702401,"Census Tract 7024.01, Montgomery County, Maryland",1000,null,1000,1000,0,0,0
+1400000US24031702402,"Census Tract 7024.02, Montgomery County, Maryland",2054,null,2054,2054,0,0,0
+1400000US24031702500,"Census Tract 7025, Montgomery County, Maryland",3506,null,3506,3506,0,0,0
+1400000US24031702601,"Census Tract 7026.01, Montgomery County, Maryland",2509,null,2509,2509,0,0,0
+1400000US24031702602,"Census Tract 7026.02, Montgomery County, Maryland",2404,null,2404,2404,0,0,0
+1400000US24031702700,"Census Tract 7027, Montgomery County, Maryland",2607,null,2607,2607,0,0,0
+1400000US24031702800,"Census Tract 7028, Montgomery County, Maryland",2377,null,2377,2377,0,0,0
+1400000US24031702900,"Census Tract 7029, Montgomery County, Maryland",2339,null,2339,2339,0,0,0
+1400000US24031703000,"Census Tract 7030, Montgomery County, Maryland",680,null,680,680,0,0,0
+1400000US24031703100,"Census Tract 7031, Montgomery County, Maryland",1571,null,1571,1571,0,0,0
+1400000US24031703201,"Census Tract 7032.01, Montgomery County, Maryland",2377,null,2377,2377,0,0,0
+1400000US24031703202,"Census Tract 7032.02, Montgomery County, Maryland",2212,null,2212,2212,0,0,0
+1400000US24031703206,"Census Tract 7032.06, Montgomery County, Maryland",1380,null,1380,1380,0,0,0
+1400000US24031703207,"Census Tract 7032.07, Montgomery County, Maryland",1824,null,1824,1824,0,0,0
+1400000US24031703208,"Census Tract 7032.08, Montgomery County, Maryland",1770,null,1770,1770,0,0,0
+1400000US24031703209,"Census Tract 7032.09, Montgomery County, Maryland",2287,null,2287,2287,0,0,0
+1400000US24031703210,"Census Tract 7032.10, Montgomery County, Maryland",1106,null,1106,1106,0,0,0
+1400000US24031703212,"Census Tract 7032.12, Montgomery County, Maryland",2863,null,2863,2863,0,0,0
+1400000US24031703213,"Census Tract 7032.13, Montgomery County, Maryland",2336,null,2336,2336,0,0,0
+1400000US24031703214,"Census Tract 7032.14, Montgomery County, Maryland",2439,null,2439,2439,0,0,0
+1400000US24031703215,"Census Tract 7032.15, Montgomery County, Maryland",1149,null,1149,1149,0,0,0
+1400000US24031703216,"Census Tract 7032.16, Montgomery County, Maryland",2184,null,2184,2184,0,0,0
+1400000US24031703218,"Census Tract 7032.18, Montgomery County, Maryland",1577,null,1577,1577,0,0,0
+1400000US24031703219,"Census Tract 7032.19, Montgomery County, Maryland",2631,null,2631,2631,0,0,0
+1400000US24031703220,"Census Tract 7032.20, Montgomery County, Maryland",1999,null,1999,1999,0,0,0
+1400000US24031703221,"Census Tract 7032.21, Montgomery County, Maryland",1804,null,1804,1804,0,0,0
+1400000US24031703301,"Census Tract 7033.01, Montgomery County, Maryland",1380,null,1380,1380,0,0,0
+1400000US24031703302,"Census Tract 7033.02, Montgomery County, Maryland",1200,null,1200,1200,0,0,0
+1400000US24031703401,"Census Tract 7034.01, Montgomery County, Maryland",1580,null,1580,1580,0,0,0
+1400000US24031703402,"Census Tract 7034.02, Montgomery County, Maryland",1056,null,1056,1056,0,0,0
+1400000US24031703403,"Census Tract 7034.03, Montgomery County, Maryland",1035,null,1035,1035,0,0,0
+1400000US24031703404,"Census Tract 7034.04, Montgomery County, Maryland",848,null,848,848,0,0,0
+1400000US24031703501,"Census Tract 7035.01, Montgomery County, Maryland",2029,null,2029,2029,0,0,0
+1400000US24031703502,"Census Tract 7035.02, Montgomery County, Maryland",1217,null,1217,1217,0,0,0
+1400000US24031703601,"Census Tract 7036.01, Montgomery County, Maryland",1822,null,1822,1822,0,0,0
+1400000US24031703602,"Census Tract 7036.02, Montgomery County, Maryland",1077,T1_HU$1400000US24031703602,1077,1077,0,0,0
+1400000US24031703701,"Census Tract 7037.01, Montgomery County, Maryland",1133,null,1133,1133,0,0,0
+1400000US24031703702,"Census Tract 7037.02, Montgomery County, Maryland",1241,null,1241,1241,0,0,0
+1400000US24031703800,"Census Tract 7038, Montgomery County, Maryland",1358,null,1358,1358,0,0,0
+1400000US24031703901,"Census Tract 7039.01, Montgomery County, Maryland",1124,null,1124,1124,0,0,0
+1400000US24031703902,"Census Tract 7039.02, Montgomery County, Maryland",2701,null,2701,2701,0,0,0
+1400000US24031704000,"Census Tract 7040, Montgomery County, Maryland",2709,null,2709,2709,0,0,0
+1400000US24031704100,"Census Tract 7041, Montgomery County, Maryland",1694,T1_HU$1400000US24031704100,1694,1694,0,0,0
+1400000US24031704200,"Census Tract 7042, Montgomery County, Maryland",902,T1_HU$1400000US24031704200,902,902,0,0,0
+1400000US24031704300,"Census Tract 7043, Montgomery County, Maryland",1471,null,1471,1471,0,0,0
+1400000US24031704401,"Census Tract 7044.01, Montgomery County, Maryland",1120,null,1120,1120,0,0,0
+1400000US24031704403,"Census Tract 7044.03, Montgomery County, Maryland",1102,null,1102,1102,0,0,0
+1400000US24031704404,"Census Tract 7044.04, Montgomery County, Maryland",2361,null,2361,2361,0,0,0
+1400000US24031704501,"Census Tract 7045.01, Montgomery County, Maryland",1285,null,1285,1285,0,0,0
+1400000US24031704502,"Census Tract 7045.02, Montgomery County, Maryland",986,null,986,986,0,0,0
+1400000US24031704503,"Census Tract 7045.03, Montgomery County, Maryland",1394,null,1394,1394,0,0,0
+1400000US24031704600,"Census Tract 7046, Montgomery County, Maryland",2110,null,2110,2110,0,0,0
+1400000US24031704700,"Census Tract 7047, Montgomery County, Maryland",1407,null,1407,1407,0,0,0
+1400000US24031704803,"Census Tract 7048.03, Montgomery County, Maryland",2095,null,2095,2095,0,0,0
+1400000US24031704804,"Census Tract 7048.04, Montgomery County, Maryland",1156,null,1156,1156,0,0,0
+1400000US24031704805,"Census Tract 7048.05, Montgomery County, Maryland",1381,null,1381,1381,0,0,0
+1400000US24031704806,"Census Tract 7048.06, Montgomery County, Maryland",1873,null,1873,1873,0,0,0
+1400000US24031705000,"Census Tract 7050, Montgomery County, Maryland",1895,null,1895,1895,0,0,0
+1400000US24031705100,"Census Tract 7051, Montgomery County, Maryland",2029,null,2029,2029,0,0,0
+1400000US24031705200,"Census Tract 7052, Montgomery County, Maryland",1204,null,1204,1204,0,0,0
+1400000US24031705300,"Census Tract 7053, Montgomery County, Maryland",708,null,708,708,0,0,0
+1400000US24031705400,"Census Tract 7054, Montgomery County, Maryland",1042,null,1042,1042,0,0,0
+1400000US24031705501,"Census Tract 7055.01, Montgomery County, Maryland",1693,null,1693,1693,0,0,0
+1400000US24031705502,"Census Tract 7055.02, Montgomery County, Maryland",1596,null,1596,1596,0,0,0
+1400000US24031705601,"Census Tract 7056.01, Montgomery County, Maryland",1066,null,1066,1066,0,0,0
+1400000US24031705602,"Census Tract 7056.02, Montgomery County, Maryland",2665,null,2665,2665,0,0,0
+1400000US24031705701,"Census Tract 7057.01, Montgomery County, Maryland",1927,null,1927,1927,0,0,0
+1400000US24031705702,"Census Tract 7057.02, Montgomery County, Maryland",1853,null,1853,1853,0,0,0
+1400000US24031705800,"Census Tract 7058, Montgomery County, Maryland",2378,null,2378,2378,0,0,0
+1400000US24031705901,"Census Tract 7059.01, Montgomery County, Maryland",1700,null,1700,1700,0,0,0
+1400000US24031705902,"Census Tract 7059.02, Montgomery County, Maryland",1573,null,1573,1573,0,0,0
+1400000US24031705903,"Census Tract 7059.03, Montgomery County, Maryland",1597,null,1597,1597,0,0,0
+1400000US24031706005,"Census Tract 7060.05, Montgomery County, Maryland",1687,null,1687,1687,0,0,0
+1400000US24031706007,"Census Tract 7060.07, Montgomery County, Maryland",2420,null,2420,2420,0,0,0
+1400000US24031706008,"Census Tract 7060.08, Montgomery County, Maryland",1835,null,1835,1835,0,0,0
+1400000US24031706009,"Census Tract 7060.09, Montgomery County, Maryland",1947,null,1947,1947,0,0,0
+1400000US24031706010,"Census Tract 7060.10, Montgomery County, Maryland",1120,null,1120,1120,0,0,0
+1400000US24031706011,"Census Tract 7060.11, Montgomery County, Maryland",1871,null,1871,1871,0,0,0
+1400000US24031706012,"Census Tract 7060.12, Montgomery County, Maryland",1789,null,1789,1789,0,0,0
+1400000US24031706013,"Census Tract 7060.13, Montgomery County, Maryland",984,null,984,984,0,0,0
+1400000US24033800102,"Census Tract 8001.02, Prince George's County, Maryland",1455,null,1455,1455,0,0,0
+1400000US24033800103,"Census Tract 8001.03, Prince George's County, Maryland",950,null,950,950,0,0,0
+1400000US24033800105,"Census Tract 8001.05, Prince George's County, Maryland",1418,null,1418,1418,0,0,0
+1400000US24033800106,"Census Tract 8001.06, Prince George's County, Maryland",1132,null,1132,1132,0,0,0
+1400000US24033800108,"Census Tract 8001.08, Prince George's County, Maryland",1750,null,1750,1750,0,0,0
+1400000US24033800109,"Census Tract 8001.09, Prince George's County, Maryland",1525,null,1525,1525,0,0,0
+1400000US24033800203,"Census Tract 8002.03, Prince George's County, Maryland",1516,null,1516,1516,0,0,0
+1400000US24033800206,"Census Tract 8002.06, Prince George's County, Maryland",1597,null,1596,1596,0,1,0
+1400000US24033800208,"Census Tract 8002.08, Prince George's County, Maryland",2668,null,2668,2668,0,0,0
+1400000US24033800209,"Census Tract 8002.09, Prince George's County, Maryland",1765,null,1765,1765,0,0,0
+1400000US24033800210,"Census Tract 8002.10, Prince George's County, Maryland",1296,null,1296,1296,0,0,0
+1400000US24033800211,"Census Tract 8002.11, Prince George's County, Maryland",1439,null,1439,1439,0,0,0
+1400000US24033800212,"Census Tract 8002.12, Prince George's County, Maryland",1829,null,1829,1829,0,0,0
+1400000US24033800213,"Census Tract 8002.13, Prince George's County, Maryland",1915,null,1915,1915,0,0,0
+1400000US24033800214,"Census Tract 8002.14, Prince George's County, Maryland",1187,null,1187,1187,0,0,0
+1400000US24033800215,"Census Tract 8002.15, Prince George's County, Maryland",1105,null,1105,1105,0,0,0
+1400000US24033800401,"Census Tract 8004.01, Prince George's County, Maryland",922,null,922,922,0,0,0
+1400000US24033800402,"Census Tract 8004.02, Prince George's County, Maryland",1917,null,1917,1917,0,0,0
+1400000US24033800403,"Census Tract 8004.03, Prince George's County, Maryland",1347,null,1347,1347,0,0,0
+1400000US24033800408,"Census Tract 8004.08, Prince George's County, Maryland",2148,null,2148,2148,0,0,0
+1400000US24033800409,"Census Tract 8004.09, Prince George's County, Maryland",2234,null,2234,2234,0,0,0
+1400000US24033800410,"Census Tract 8004.10, Prince George's County, Maryland",1793,null,1779,1779,0,14,0
+1400000US24033800411,"Census Tract 8004.11, Prince George's County, Maryland",1434,null,1370,1370,0,64,0
+1400000US24033800412,"Census Tract 8004.12, Prince George's County, Maryland",1165,null,1165,1165,0,0,0
+1400000US24033800413,"Census Tract 8004.13, Prince George's County, Maryland",1417,null,1417,1417,0,0,0
+1400000US24033800504,"Census Tract 8005.04, Prince George's County, Maryland",1761,null,1744,1744,0,17,0
+1400000US24033800505,"Census Tract 8005.05, Prince George's County, Maryland",1019,null,1019,1019,0,0,0
+1400000US24033800507,"Census Tract 8005.07, Prince George's County, Maryland",1120,null,608,608,0,512,0
+1400000US24033800509,"Census Tract 8005.09, Prince George's County, Maryland",3644,null,3643,3643,0,1,0
+1400000US24033800511,"Census Tract 8005.11, Prince George's County, Maryland",1991,null,1991,1991,0,0,0
+1400000US24033800513,"Census Tract 8005.13, Prince George's County, Maryland",1891,null,1891,1891,0,0,0
+1400000US24033800514,"Census Tract 8005.14, Prince George's County, Maryland",1525,null,1525,1525,0,0,0
+1400000US24033800515,"Census Tract 8005.15, Prince George's County, Maryland",1585,null,1585,1585,0,0,0
+1400000US24033800516,"Census Tract 8005.16, Prince George's County, Maryland",1680,null,1680,1680,0,0,0
+1400000US24033800517,"Census Tract 8005.17, Prince George's County, Maryland",1722,null,1722,1722,0,0,0
+1400000US24033800518,"Census Tract 8005.18, Prince George's County, Maryland",1083,null,1083,1083,0,0,0
+1400000US24033800519,"Census Tract 8005.19, Prince George's County, Maryland",1390,null,1390,1390,0,0,0
+1400000US24033800520,"Census Tract 8005.20, Prince George's County, Maryland",991,null,991,991,0,0,0
+1400000US24033800601,"Census Tract 8006.01, Prince George's County, Maryland",696,null,675,675,0,21,0
+1400000US24033800604,"Census Tract 8006.04, Prince George's County, Maryland",594,null,253,253,0,341,0
+1400000US24033800605,"Census Tract 8006.05, Prince George's County, Maryland",1519,null,1287,1287,0,232,0
+1400000US24033800606,"Census Tract 8006.06, Prince George's County, Maryland",2540,null,2540,2540,0,0,0
+1400000US24033800607,"Census Tract 8006.07, Prince George's County, Maryland",2032,null,2028,2028,0,4,0
+1400000US24033800608,"Census Tract 8006.08, Prince George's County, Maryland",1247,null,1247,1247,0,0,0
+1400000US24033800701,"Census Tract 8007.01, Prince George's County, Maryland",1894,null,1653,1653,0,241,0
+1400000US24033800704,"Census Tract 8007.04, Prince George's County, Maryland",2001,null,1963,1963,0,38,0
+1400000US24033800705,"Census Tract 8007.05, Prince George's County, Maryland",1499,null,1483,1483,0,16,0
+1400000US24033800706,"Census Tract 8007.06, Prince George's County, Maryland",1215,null,1209,1209,0,6,0
+1400000US24033800707,"Census Tract 8007.07, Prince George's County, Maryland",1182,null,963,963,0,219,0
+1400000US24033800800,"Census Tract 8008, Prince George's County, Maryland",1345,null,0,0,0,1345,0
+1400000US24033800900,"Census Tract 8009, Prince George's County, Maryland",731,null,0,0,0,731,0
+1400000US24033801003,"Census Tract 8010.03, Prince George's County, Maryland",1448,null,662,662,0,786,0
+1400000US24033801004,"Census Tract 8010.04, Prince George's County, Maryland",1425,null,1135,1135,0,290,0
+1400000US24033801005,"Census Tract 8010.05, Prince George's County, Maryland",1253,null,1253,1253,0,0,0
+1400000US24033801006,"Census Tract 8010.06, Prince George's County, Maryland",1328,null,1328,1328,0,0,0
+1400000US24033801104,"Census Tract 8011.04, Prince George's County, Maryland",1385,null,1385,1385,0,0,0
+1400000US24033801207,"Census Tract 8012.07, Prince George's County, Maryland",1529,null,1525,1525,0,4,0
+1400000US24033801208,"Census Tract 8012.08, Prince George's County, Maryland",1334,null,1334,1334,0,0,0
+1400000US24033801209,"Census Tract 8012.09, Prince George's County, Maryland",1551,null,1551,1551,0,0,0
+1400000US24033801210,"Census Tract 8012.10, Prince George's County, Maryland",1524,null,1524,1524,0,0,0
+1400000US24033801211,"Census Tract 8012.11, Prince George's County, Maryland",1116,null,1116,1116,0,0,0
+1400000US24033801212,"Census Tract 8012.12, Prince George's County, Maryland",1127,null,1127,1127,0,0,0
+1400000US24033801213,"Census Tract 8012.13, Prince George's County, Maryland",1342,null,1342,1342,0,0,0
+1400000US24033801214,"Census Tract 8012.14, Prince George's County, Maryland",1704,null,1704,1704,0,0,0
+1400000US24033801215,"Census Tract 8012.15, Prince George's County, Maryland",790,null,790,790,0,0,0
+1400000US24033801216,"Census Tract 8012.16, Prince George's County, Maryland",1248,null,1136,1136,0,112,0
+1400000US24033801217,"Census Tract 8012.17, Prince George's County, Maryland",1167,null,1167,1167,0,0,0
+1400000US24033801302,"Census Tract 8013.02, Prince George's County, Maryland",1036,null,578,578,0,458,0
+1400000US24033801305,"Census Tract 8013.05, Prince George's County, Maryland",1968,null,1968,1968,0,0,0
+1400000US24033801307,"Census Tract 8013.07, Prince George's County, Maryland",1414,null,1414,1414,0,0,0
+1400000US24033801308,"Census Tract 8013.08, Prince George's County, Maryland",1259,null,1259,1259,0,0,0
+1400000US24033801309,"Census Tract 8013.09, Prince George's County, Maryland",1351,null,1351,1351,0,0,0
+1400000US24033801310,"Census Tract 8013.10, Prince George's County, Maryland",2145,null,1824,1824,0,321,0
+1400000US24033801311,"Census Tract 8013.11, Prince George's County, Maryland",2028,null,1397,1397,0,631,0
+1400000US24033801312,"Census Tract 8013.12, Prince George's County, Maryland",1325,null,1325,1325,0,0,0
+1400000US24033801313,"Census Tract 8013.13, Prince George's County, Maryland",1184,null,1184,1184,0,0,0
+1400000US24033801404,"Census Tract 8014.04, Prince George's County, Maryland",2339,null,2339,2339,0,0,0
+1400000US24033801405,"Census Tract 8014.05, Prince George's County, Maryland",1593,null,1593,1593,0,0,0
+1400000US24033801406,"Census Tract 8014.06, Prince George's County, Maryland",1420,null,1420,1420,0,0,0
+1400000US24033801407,"Census Tract 8014.07, Prince George's County, Maryland",2337,null,2337,2337,0,0,0
+1400000US24033801408,"Census Tract 8014.08, Prince George's County, Maryland",1760,null,1760,1760,0,0,0
+1400000US24033801409,"Census Tract 8014.09, Prince George's County, Maryland",1136,null,1136,1136,0,0,0
+1400000US24033801410,"Census Tract 8014.10, Prince George's County, Maryland",1248,null,1248,1248,0,0,0
+1400000US24033801411,"Census Tract 8014.11, Prince George's County, Maryland",1162,null,1162,1162,0,0,0
+1400000US24033801500,"Census Tract 8015, Prince George's County, Maryland",961,null,961,961,0,0,0
+1400000US24033801600,"Census Tract 8016, Prince George's County, Maryland",1237,null,1237,1237,0,0,0
+1400000US24033801701,"Census Tract 8017.01, Prince George's County, Maryland",1782,null,1782,1782,0,0,0
+1400000US24033801702,"Census Tract 8017.02, Prince George's County, Maryland",1793,null,1793,1793,0,0,0
+1400000US24033801704,"Census Tract 8017.04, Prince George's County, Maryland",2455,null,2455,2455,0,0,0
+1400000US24033801706,"Census Tract 8017.06, Prince George's County, Maryland",572,null,572,572,0,0,0
+1400000US24033801707,"Census Tract 8017.07, Prince George's County, Maryland",2489,null,2489,2489,0,0,0
+1400000US24033801708,"Census Tract 8017.08, Prince George's County, Maryland",1383,null,1383,1383,0,0,0
+1400000US24033801801,"Census Tract 8018.01, Prince George's County, Maryland",912,null,912,912,0,0,0
+1400000US24033801802,"Census Tract 8018.02, Prince George's County, Maryland",1751,null,1751,1751,0,0,0
+1400000US24033801804,"Census Tract 8018.04, Prince George's County, Maryland",811,null,811,811,0,0,0
+1400000US24033801805,"Census Tract 8018.05, Prince George's County, Maryland",1340,null,1340,1340,0,0,0
+1400000US24033801807,"Census Tract 8018.07, Prince George's County, Maryland",2191,null,2191,2191,0,0,0
+1400000US24033801808,"Census Tract 8018.08, Prince George's County, Maryland",1641,null,1641,1641,0,0,0
+1400000US24033801901,"Census Tract 8019.01, Prince George's County, Maryland",1787,null,1787,1787,0,0,0
+1400000US24033801904,"Census Tract 8019.04, Prince George's County, Maryland",1333,null,1333,1333,0,0,0
+1400000US24033801905,"Census Tract 8019.05, Prince George's County, Maryland",2214,null,2214,2214,0,0,0
+1400000US24033801906,"Census Tract 8019.06, Prince George's County, Maryland",757,null,757,757,0,0,0
+1400000US24033801907,"Census Tract 8019.07, Prince George's County, Maryland",1719,null,1719,1719,0,0,0
+1400000US24033801908,"Census Tract 8019.08, Prince George's County, Maryland",1430,null,1430,1430,0,0,0
+1400000US24033802001,"Census Tract 8020.01, Prince George's County, Maryland",2415,null,2415,2415,0,0,0
+1400000US24033802002,"Census Tract 8020.02, Prince George's County, Maryland",1493,null,1493,1493,0,0,0
+1400000US24033802103,"Census Tract 8021.03, Prince George's County, Maryland",1209,null,1209,1209,0,0,0
+1400000US24033802104,"Census Tract 8021.04, Prince George's County, Maryland",976,null,976,976,0,0,0
+1400000US24033802106,"Census Tract 8021.06, Prince George's County, Maryland",1810,null,1810,1810,0,0,0
+1400000US24033802107,"Census Tract 8021.07, Prince George's County, Maryland",1558,null,1558,1558,0,0,0
+1400000US24033802201,"Census Tract 8022.01, Prince George's County, Maryland",861,null,861,861,0,0,0
+1400000US24033802203,"Census Tract 8022.03, Prince George's County, Maryland",1766,null,1766,1766,0,0,0
+1400000US24033802204,"Census Tract 8022.04, Prince George's County, Maryland",2242,null,2242,2242,0,0,0
+1400000US24033802301,"Census Tract 8023.01, Prince George's County, Maryland",1363,null,1363,1363,0,0,0
+1400000US24033802404,"Census Tract 8024.04, Prince George's County, Maryland",1960,null,1960,1960,0,0,0
+1400000US24033802405,"Census Tract 8024.05, Prince George's County, Maryland",1810,null,1810,1810,0,0,0
+1400000US24033802406,"Census Tract 8024.06, Prince George's County, Maryland",980,null,980,980,0,0,0
+1400000US24033802407,"Census Tract 8024.07, Prince George's County, Maryland",1941,null,1941,1941,0,0,0
+1400000US24033802408,"Census Tract 8024.08, Prince George's County, Maryland",835,null,835,835,0,0,0
+1400000US24033802501,"Census Tract 8025.01, Prince George's County, Maryland",1447,null,1447,1447,0,0,0
+1400000US24033802502,"Census Tract 8025.02, Prince George's County, Maryland",1130,null,1130,1130,0,0,0
+1400000US24033802600,"Census Tract 8026, Prince George's County, Maryland",1276,null,1276,1276,0,0,0
+1400000US24033802700,"Census Tract 8027, Prince George's County, Maryland",1029,null,1029,1029,0,0,0
+1400000US24033802803,"Census Tract 8028.03, Prince George's County, Maryland",2139,null,2139,2139,0,0,0
+1400000US24033802804,"Census Tract 8028.04, Prince George's County, Maryland",2109,null,2109,2109,0,0,0
+1400000US24033802805,"Census Tract 8028.05, Prince George's County, Maryland",1805,null,1805,1805,0,0,0
+1400000US24033802901,"Census Tract 8029.01, Prince George's County, Maryland",1538,null,1538,1538,0,0,0
+1400000US24033803001,"Census Tract 8030.01, Prince George's County, Maryland",1137,null,1137,1137,0,0,0
+1400000US24033803002,"Census Tract 8030.02, Prince George's County, Maryland",1140,null,1140,1140,0,0,0
+1400000US24033803100,"Census Tract 8031, Prince George's County, Maryland",1101,null,1101,1101,0,0,0
+1400000US24033803200,"Census Tract 8032, Prince George's County, Maryland",1216,null,1216,1216,0,0,0
+1400000US24033803300,"Census Tract 8033, Prince George's County, Maryland",1663,null,1663,1663,0,0,0
+1400000US24033803401,"Census Tract 8034.01, Prince George's County, Maryland",505,null,505,505,0,0,0
+1400000US24033803402,"Census Tract 8034.02, Prince George's County, Maryland",1858,null,1858,1858,0,0,0
+1400000US24033803508,"Census Tract 8035.08, Prince George's County, Maryland",1852,null,1852,1852,0,0,0
+1400000US24033803509,"Census Tract 8035.09, Prince George's County, Maryland",1009,null,1009,1009,0,0,0
+1400000US24033803512,"Census Tract 8035.12, Prince George's County, Maryland",2446,null,2446,2446,0,0,0
+1400000US24033803513,"Census Tract 8035.13, Prince George's County, Maryland",2176,null,2176,2176,0,0,0
+1400000US24033803514,"Census Tract 8035.14, Prince George's County, Maryland",2235,null,2235,2235,0,0,0
+1400000US24033803516,"Census Tract 8035.16, Prince George's County, Maryland",1739,null,1739,1739,0,0,0
+1400000US24033803519,"Census Tract 8035.19, Prince George's County, Maryland",2446,null,2446,2446,0,0,0
+1400000US24033803520,"Census Tract 8035.20, Prince George's County, Maryland",1377,null,1377,1377,0,0,0
+1400000US24033803521,"Census Tract 8035.21, Prince George's County, Maryland",1822,null,1822,1822,0,0,0
+1400000US24033803522,"Census Tract 8035.22, Prince George's County, Maryland",1510,null,1510,1510,0,0,0
+1400000US24033803523,"Census Tract 8035.23, Prince George's County, Maryland",1234,null,1234,1234,0,0,0
+1400000US24033803524,"Census Tract 8035.24, Prince George's County, Maryland",1657,null,1657,1657,0,0,0
+1400000US24033803525,"Census Tract 8035.25, Prince George's County, Maryland",1062,null,1062,1062,0,0,0
+1400000US24033803526,"Census Tract 8035.26, Prince George's County, Maryland",1333,null,1333,1333,0,0,0
+1400000US24033803527,"Census Tract 8035.27, Prince George's County, Maryland",1143,null,1143,1143,0,0,0
+1400000US24033803601,"Census Tract 8036.01, Prince George's County, Maryland",1181,null,1181,1181,0,0,0
+1400000US24033803602,"Census Tract 8036.02, Prince George's County, Maryland",681,null,681,681,0,0,0
+1400000US24033803605,"Census Tract 8036.05, Prince George's County, Maryland",1996,null,1996,1996,0,0,0
+1400000US24033803606,"Census Tract 8036.06, Prince George's County, Maryland",1634,null,1634,1634,0,0,0
+1400000US24033803607,"Census Tract 8036.07, Prince George's County, Maryland",1060,null,1060,1060,0,0,0
+1400000US24033803608,"Census Tract 8036.08, Prince George's County, Maryland",1884,null,1884,1884,0,0,0
+1400000US24033803610,"Census Tract 8036.10, Prince George's County, Maryland",1047,null,1047,1047,0,0,0
+1400000US24033803612,"Census Tract 8036.12, Prince George's County, Maryland",1290,null,1290,1290,0,0,0
+1400000US24033803613,"Census Tract 8036.13, Prince George's County, Maryland",1997,null,1997,1997,0,0,0
+1400000US24033803700,"Census Tract 8037, Prince George's County, Maryland",784,null,784,784,0,0,0
+1400000US24033803801,"Census Tract 8038.01, Prince George's County, Maryland",734,null,734,734,0,0,0
+1400000US24033803803,"Census Tract 8038.03, Prince George's County, Maryland",1551,null,1551,1551,0,0,0
+1400000US24033803900,"Census Tract 8039, Prince George's County, Maryland",982,null,982,982,0,0,0
+1400000US24033804001,"Census Tract 8040.01, Prince George's County, Maryland",2343,null,2343,2343,0,0,0
+1400000US24033804002,"Census Tract 8040.02, Prince George's County, Maryland",1312,null,1312,1312,0,0,0
+1400000US24033804101,"Census Tract 8041.01, Prince George's County, Maryland",1201,null,1201,1201,0,0,0
+1400000US24033804102,"Census Tract 8041.02, Prince George's County, Maryland",2135,null,2135,2135,0,0,0
+1400000US24033804200,"Census Tract 8042, Prince George's County, Maryland",1201,null,1201,1201,0,0,0
+1400000US24033804300,"Census Tract 8043, Prince George's County, Maryland",1337,null,1337,1337,0,0,0
+1400000US24033804400,"Census Tract 8044, Prince George's County, Maryland",915,null,915,915,0,0,0
+1400000US24033804600,"Census Tract 8046, Prince George's County, Maryland",1030,null,1030,1030,0,0,0
+1400000US24033804700,"Census Tract 8047, Prince George's County, Maryland",1358,null,1358,1358,0,0,0
+1400000US24033804801,"Census Tract 8048.01, Prince George's County, Maryland",1330,null,1330,1330,0,0,0
+1400000US24033804802,"Census Tract 8048.02, Prince George's County, Maryland",1109,null,1109,1109,0,0,0
+1400000US24033804900,"Census Tract 8049, Prince George's County, Maryland",1501,null,1501,1501,0,0,0
+1400000US24033805000,"Census Tract 8050, Prince George's County, Maryland",2292,null,2292,2292,0,0,0
+1400000US24033805101,"Census Tract 8051.01, Prince George's County, Maryland",1298,null,1298,1298,0,0,0
+1400000US24033805201,"Census Tract 8052.01, Prince George's County, Maryland",1362,null,1362,1362,0,0,0
+1400000US24033805202,"Census Tract 8052.02, Prince George's County, Maryland",1289,null,1289,1289,0,0,0
+1400000US24033805500,"Census Tract 8055, Prince George's County, Maryland",1213,null,1213,1213,0,0,0
+1400000US24033805601,"Census Tract 8056.01, Prince George's County, Maryland",1678,null,1678,1678,0,0,0
+1400000US24033805602,"Census Tract 8056.02, Prince George's County, Maryland",1320,null,1320,1320,0,0,0
+1400000US24033805700,"Census Tract 8057, Prince George's County, Maryland",1811,null,1811,1811,0,0,0
+1400000US24033805801,"Census Tract 8058.01, Prince George's County, Maryland",1095,null,1095,1095,0,0,0
+1400000US24033805802,"Census Tract 8058.02, Prince George's County, Maryland",1031,null,1031,1031,0,0,0
+1400000US24033805904,"Census Tract 8059.04, Prince George's County, Maryland",965,null,965,965,0,0,0
+1400000US24033805906,"Census Tract 8059.06, Prince George's County, Maryland",1314,null,1314,1314,0,0,0
+1400000US24033805907,"Census Tract 8059.07, Prince George's County, Maryland",1527,null,1527,1527,0,0,0
+1400000US24033805908,"Census Tract 8059.08, Prince George's County, Maryland",871,null,871,871,0,0,0
+1400000US24033805909,"Census Tract 8059.09, Prince George's County, Maryland",1863,null,1863,1863,0,0,0
+1400000US24033806000,"Census Tract 8060, Prince George's County, Maryland",1800,null,1800,1800,0,0,0
+1400000US24033806100,"Census Tract 8061, Prince George's County, Maryland",1615,null,1615,1615,0,0,0
+1400000US24033806200,"Census Tract 8062, Prince George's County, Maryland",1701,null,1701,1701,0,0,0
+1400000US24033806300,"Census Tract 8063, Prince George's County, Maryland",791,null,791,791,0,0,0
+1400000US24033806400,"Census Tract 8064, Prince George's County, Maryland",1260,null,1260,1260,0,0,0
+1400000US24033806501,"Census Tract 8065.01, Prince George's County, Maryland",1500,null,1500,1500,0,0,0
+1400000US24033806601,"Census Tract 8066.01, Prince George's County, Maryland",1344,null,1344,1344,0,0,0
+1400000US24033806602,"Census Tract 8066.02, Prince George's County, Maryland",1440,null,1440,1440,0,0,0
+1400000US24033806706,"Census Tract 8067.06, Prince George's County, Maryland",1531,null,1531,1531,0,0,0
+1400000US24033806708,"Census Tract 8067.08, Prince George's County, Maryland",2299,null,2299,2299,0,0,0
+1400000US24033806710,"Census Tract 8067.10, Prince George's County, Maryland",2407,null,2407,2407,0,0,0
+1400000US24033806711,"Census Tract 8067.11, Prince George's County, Maryland",2092,null,2092,2092,0,0,0
+1400000US24033806712,"Census Tract 8067.12, Prince George's County, Maryland",1489,null,1489,1489,0,0,0
+1400000US24033806713,"Census Tract 8067.13, Prince George's County, Maryland",1373,null,1373,1373,0,0,0
+1400000US24033806714,"Census Tract 8067.14, Prince George's County, Maryland",1330,null,1330,1330,0,0,0
+1400000US24033806800,"Census Tract 8068, Prince George's County, Maryland",1364,null,1364,1364,0,0,0
+1400000US24033806900,"Census Tract 8069, Prince George's County, Maryland",1396,null,1396,1396,0,0,0
+1400000US24033807000,"Census Tract 8070, Prince George's County, Maryland",3021,null,3021,3021,0,0,0
+1400000US24033807102,"Census Tract 8071.02, Prince George's County, Maryland",927,null,927,927,0,0,0
+1400000US24033807200,"Census Tract 8072, Prince George's County, Maryland",1435,null,1435,1435,0,0,0
+1400000US24033807301,"Census Tract 8073.01, Prince George's County, Maryland",1476,null,1476,1476,0,0,0
+1400000US24033807304,"Census Tract 8073.04, Prince George's County, Maryland",625,null,625,625,0,0,0
+1400000US24033807305,"Census Tract 8073.05, Prince George's County, Maryland",1116,null,1116,1116,0,0,0
+1400000US24033807404,"Census Tract 8074.04, Prince George's County, Maryland",1728,null,1728,1728,0,0,0
+1400000US24033807405,"Census Tract 8074.05, Prince George's County, Maryland",2319,null,2319,2319,0,0,0
+1400000US24033807407,"Census Tract 8074.07, Prince George's County, Maryland",2293,null,2293,2293,0,0,0
+1400000US24033807408,"Census Tract 8074.08, Prince George's County, Maryland",2428,null,2292,2292,0,136,0
+1400000US24033807409,"Census Tract 8074.09, Prince George's County, Maryland",1258,null,1258,1258,0,0,0
+1400000US24033807410,"Census Tract 8074.10, Prince George's County, Maryland",1594,null,1594,1594,0,0,0
+1400000US24035810100,"Census Tract 8101, Queen Anne's County, Maryland",1360,null,0,0,0,1360,0
+1400000US24035810200,"Census Tract 8102, Queen Anne's County, Maryland",1072,null,0,0,0,1072,0
+1400000US24035810300,"Census Tract 8103, Queen Anne's County, Maryland",1868,null,748,0,748,1120,0
+1400000US24035810400,"Census Tract 8104, Queen Anne's County, Maryland",2250,null,930,0,930,1320,0
+1400000US24035810500,"Census Tract 8105, Queen Anne's County, Maryland",1882,null,764,0,764,1118,0
+1400000US24035810600,"Census Tract 8106, Queen Anne's County, Maryland",2126,null,0,0,0,2126,0
+1400000US24035810700,"Census Tract 8107, Queen Anne's County, Maryland",1782,null,1218,1218,0,564,0
+1400000US24035810800,"Census Tract 8108, Queen Anne's County, Maryland",2466,null,2151,2151,0,315,0
+1400000US24035810901,"Census Tract 8109.01, Queen Anne's County, Maryland",2165,null,1323,709,614,842,0
+1400000US24035810902,"Census Tract 8109.02, Queen Anne's County, Maryland",1267,null,874,0,874,393,0
+1400000US24035811000,"Census Tract 8110, Queen Anne's County, Maryland",1902,null,1109,1109,0,793,0
+1400000US24035990000,"Census Tract 9900, Queen Anne's County, Maryland",0,null,0,0,0,0,0
+1400000US24035990100,"Census Tract 9901, Queen Anne's County, Maryland",0,null,0,0,0,0,0
+1400000US24035990200,"Census Tract 9902, Queen Anne's County, Maryland",0,null,0,0,0,0,0
+1400000US24037875000,"Census Tract 8750, St. Mary's County, Maryland",2184,null,1068,0,1068,1116,0
+1400000US24037875100,"Census Tract 8751, St. Mary's County, Maryland",1636,null,522,0,522,1114,0
+1400000US24037875201,"Census Tract 8752.01, St. Mary's County, Maryland",1781,null,147,0,147,1634,0
+1400000US24037875202,"Census Tract 8752.02, St. Mary's County, Maryland",2135,null,686,0,686,1449,0
+1400000US24037875300,"Census Tract 8753, St. Mary's County, Maryland",1690,null,0,0,0,1690,0
+1400000US24037875400,"Census Tract 8754, St. Mary's County, Maryland",2829,null,1170,0,1170,1659,0
+1400000US24037875500,"Census Tract 8755, St. Mary's County, Maryland",3106,null,1415,736,679,1691,0
+1400000US24037875600,"Census Tract 8756, St. Mary's County, Maryland",3377,null,1691,1691,0,1686,0
+1400000US24037875700,"Census Tract 8757, St. Mary's County, Maryland",3010,null,822,822,0,2188,0
+1400000US24037875801,"Census Tract 8758.01, St. Mary's County, Maryland",225,null,203,203,0,22,0
+1400000US24037875802,"Census Tract 8758.02, St. Mary's County, Maryland",1672,null,1468,1468,0,204,0
+1400000US24037875901,"Census Tract 8759.01, St. Mary's County, Maryland",3015,null,2637,2637,0,378,0
+1400000US24037875902,"Census Tract 8759.02, St. Mary's County, Maryland",3211,null,3051,3051,0,160,0
+1400000US24037876001,"Census Tract 8760.01, St. Mary's County, Maryland",2081,null,2081,2081,0,0,0
+1400000US24037876002,"Census Tract 8760.02, St. Mary's County, Maryland",3402,null,2992,2992,0,410,0
+1400000US24037876100,"Census Tract 8761, St. Mary's County, Maryland",3344,null,348,348,0,2996,0
+1400000US24037876200,"Census Tract 8762, St. Mary's County, Maryland",2584,null,70,70,0,2514,0
+1400000US24037990000,"Census Tract 9900, St. Mary's County, Maryland",0,null,0,0,0,0,0
+1400000US24039930101,"Census Tract 9301.01, Somerset County, Maryland",2693,null,2099,0,2099,594,0
+1400000US24039930102,"Census Tract 9301.02, Somerset County, Maryland",1744,null,568,95,473,1176,0
+1400000US24039930200,"Census Tract 9302, Somerset County, Maryland",1274,null,0,0,0,1274,0
+1400000US24039930300,"Census Tract 9303, Somerset County, Maryland",1343,null,60,0,60,1283,0
+1400000US24039930500,"Census Tract 9305, Somerset County, Maryland",2272,null,276,0,276,1996,0
+1400000US24039930600,"Census Tract 9306, Somerset County, Maryland",1749,null,1652,0,1652,97,0
+1400000US24039980400,"Census Tract 9804, Somerset County, Maryland",55,null,0,0,0,55,0
+1400000US24039990100,"Census Tract 9901, Somerset County, Maryland",0,null,0,0,0,0,0
+1400000US24041960100,"Census Tract 9601, Talbot County, Maryland",1812,null,0,0,0,1812,0
+1400000US24041960201,"Census Tract 9602.01, Talbot County, Maryland",2267,null,880,0,880,1387,0
+1400000US24041960300,"Census Tract 9603, Talbot County, Maryland",1665,null,1665,0,1665,0,0
+1400000US24041960400,"Census Tract 9604, Talbot County, Maryland",2792,null,2792,0,2792,0,0
+1400000US24041960501,"Census Tract 9605.01, Talbot County, Maryland",1934,null,1287,0,1287,647,0
+1400000US24041960502,"Census Tract 9605.02, Talbot County, Maryland",1673,null,1389,0,1389,284,0
+1400000US24041960600,"Census Tract 9606, Talbot County, Maryland",1162,null,0,0,0,1162,0
+1400000US24041960700,"Census Tract 9607, Talbot County, Maryland",2497,null,0,0,0,2497,0
+1400000US24041960800,"Census Tract 9608, Talbot County, Maryland",1385,null,0,0,0,1385,0
+1400000US24041960900,"Census Tract 9609, Talbot County, Maryland",2390,null,0,0,0,2390,0
+1400000US24041990000,"Census Tract 9900, Talbot County, Maryland",0,null,0,0,0,0,0
+1400000US24043000100,"Census Tract 1, Washington County, Maryland",1467,null,1467,1467,0,0,0
+1400000US24043000200,"Census Tract 2, Washington County, Maryland",1844,null,1844,1844,0,0,0
+1400000US24043000301,"Census Tract 3.01, Washington County, Maryland",1511,null,1511,1511,0,0,0
+1400000US24043000302,"Census Tract 3.02, Washington County, Maryland",1157,null,1157,1157,0,0,0
+1400000US24043000400,"Census Tract 4, Washington County, Maryland",1299,null,1299,1299,0,0,0
+1400000US24043000500,"Census Tract 5, Washington County, Maryland",2637,null,2637,2637,0,0,0
+1400000US24043000601,"Census Tract 6.01, Washington County, Maryland",1109,null,1109,1109,0,0,0
+1400000US24043000602,"Census Tract 6.02, Washington County, Maryland",1681,null,1681,1681,0,0,0
+1400000US24043000700,"Census Tract 7, Washington County, Maryland",1555,null,1555,1555,0,0,0
+1400000US24043000800,"Census Tract 8, Washington County, Maryland",1805,null,1805,1805,0,0,0
+1400000US24043000900,"Census Tract 9, Washington County, Maryland",1404,null,1404,1404,0,0,0
+1400000US24043001001,"Census Tract 10.01, Washington County, Maryland",2273,null,2273,2273,0,0,0
+1400000US24043001002,"Census Tract 10.02, Washington County, Maryland",1660,null,1660,1660,0,0,0
+1400000US24043010100,"Census Tract 101, Washington County, Maryland",584,null,480,0,480,104,0
+1400000US24043010200,"Census Tract 102, Washington County, Maryland",1757,null,296,276,20,1461,0
+1400000US24043010300,"Census Tract 103, Washington County, Maryland",3002,null,2942,2942,0,60,0
+1400000US24043010400,"Census Tract 104, Washington County, Maryland",3014,null,1944,1944,0,1070,0
+1400000US24043010500,"Census Tract 105, Washington County, Maryland",2473,null,1069,1069,0,1404,0
+1400000US24043010600,"Census Tract 106, Washington County, Maryland",2067,null,0,0,0,2067,0
+1400000US24043010700,"Census Tract 107, Washington County, Maryland",1639,null,0,0,0,1639,0
+1400000US24043010801,"Census Tract 108.01, Washington County, Maryland",1933,null,1663,1663,0,270,0
+1400000US24043010802,"Census Tract 108.02, Washington County, Maryland",1204,null,962,962,0,242,0
+1400000US24043010900,"Census Tract 109, Washington County, Maryland",3104,null,1287,1287,0,1817,0
+1400000US24043011000,"Census Tract 110, Washington County, Maryland",1,null,1,1,0,0,0
+1400000US24043011100,"Census Tract 111, Washington County, Maryland",2767,null,2311,2311,0,456,0
+1400000US24043011201,"Census Tract 112.01, Washington County, Maryland",3894,null,3878,3878,0,16,0
+1400000US24043011202,"Census Tract 112.02, Washington County, Maryland",1815,null,1344,1344,0,471,0
+1400000US24043011301,"Census Tract 113.01, Washington County, Maryland",1943,null,1399,1399,0,544,0
+1400000US24043011302,"Census Tract 113.02, Washington County, Maryland",1551,null,358,358,0,1193,0
+1400000US24043011400,"Census Tract 114, Washington County, Maryland",2318,null,1313,1313,0,1005,0
+1400000US24043011500,"Census Tract 115, Washington County, Maryland",3118,null,193,193,0,2925,0
+1400000US24043011600,"Census Tract 116, Washington County, Maryland",1228,null,589,0,589,639,0
+1400000US24045000100,"Census Tract 1, Wicomico County, Maryland",2203,null,2203,2203,0,0,0
+1400000US24045000200,"Census Tract 2, Wicomico County, Maryland",942,null,942,942,0,0,0
+1400000US24045000300,"Census Tract 3, Wicomico County, Maryland",618,null,618,618,0,0,0
+1400000US24045000400,"Census Tract 4, Wicomico County, Maryland",1938,null,1938,1938,0,0,0
+1400000US24045000500,"Census Tract 5, Wicomico County, Maryland",1177,null,1177,1177,0,0,0
+1400000US24045010101,"Census Tract 101.01, Wicomico County, Maryland",2611,null,2585,2585,0,26,0
+1400000US24045010102,"Census Tract 101.02, Wicomico County, Maryland",1561,null,1561,1561,0,0,0
+1400000US24045010200,"Census Tract 102, Wicomico County, Maryland",2606,null,2496,2496,0,110,0
+1400000US24045010300,"Census Tract 103, Wicomico County, Maryland",3074,null,2803,2803,0,271,0
+1400000US24045010400,"Census Tract 104, Wicomico County, Maryland",2384,null,2222,2222,0,162,0
+1400000US24045010501,"Census Tract 105.01, Wicomico County, Maryland",1958,null,1906,1906,0,52,0
+1400000US24045010502,"Census Tract 105.02, Wicomico County, Maryland",3519,null,3519,3519,0,0,0
+1400000US24045010603,"Census Tract 106.03, Wicomico County, Maryland",3189,null,2164,2164,0,1025,0
+1400000US24045010604,"Census Tract 106.04, Wicomico County, Maryland",2222,null,2,2,0,2220,0
+1400000US24045010605,"Census Tract 106.05, Wicomico County, Maryland",1630,null,834,834,0,796,0
+1400000US24045010606,"Census Tract 106.06, Wicomico County, Maryland",1792,null,442,442,0,1350,0
+1400000US24045010701,"Census Tract 107.01, Wicomico County, Maryland",1610,null,0,0,0,1610,0
+1400000US24045010702,"Census Tract 107.02, Wicomico County, Maryland",3325,null,2199,2199,0,1126,0
+1400000US24045010800,"Census Tract 108, Wicomico County, Maryland",2833,null,551,551,0,2282,0
+1400000US24047950000,"Census Tract 9500, Worcester County, Maryland",5737,null,5737,0,5737,0,0
+1400000US24047950100,"Census Tract 9501, Worcester County, Maryland",12835,null,12835,0,12835,0,0
+1400000US24047950300,"Census Tract 9503, Worcester County, Maryland",11547,null,11547,0,11547,0,0
+1400000US24047950400,"Census Tract 9504, Worcester County, Maryland",1621,null,1586,0,1586,35,0
+1400000US24047950600,"Census Tract 9506, Worcester County, Maryland",2351,null,2351,0,2351,0,0
+1400000US24047950700,"Census Tract 9507, Worcester County, Maryland",2082,null,1902,0,1902,180,0
+1400000US24047950800,"Census Tract 9508, Worcester County, Maryland",2685,null,589,0,589,2096,0
+1400000US24047950900,"Census Tract 9509, Worcester County, Maryland",990,null,174,0,174,816,0
+1400000US24047951000,"Census Tract 9510, Worcester County, Maryland",1965,null,1778,0,1778,187,0
+1400000US24047951100,"Census Tract 9511, Worcester County, Maryland",4581,null,4581,0,4581,0,0
+1400000US24047951200,"Census Tract 9512, Worcester County, Maryland",1427,null,0,0,0,1427,0
+1400000US24047951300,"Census Tract 9513, Worcester County, Maryland",1172,null,0,0,0,1172,0
+1400000US24047951400,"Census Tract 9514, Worcester County, Maryland",1526,null,89,0,89,1437,0
+1400000US24047951500,"Census Tract 9515, Worcester County, Maryland",2275,null,1809,0,1809,466,0
+1400000US24047951700,"Census Tract 9517, Worcester County, Maryland",2955,null,1683,0,1683,1272,0
+1400000US24047980000,"Census Tract 9800, Worcester County, Maryland",0,null,0,0,0,0,0
+1400000US24047990000,"Census Tract 9900, Worcester County, Maryland",0,null,0,0,0,0,0
+1400000US24510010100,"Census Tract 101, Baltimore city, Maryland",1728,null,1728,1728,0,0,0
+1400000US24510010200,"Census Tract 102, Baltimore city, Maryland",1564,null,1564,1564,0,0,0
+1400000US24510010300,"Census Tract 103, Baltimore city, Maryland",1330,T1_HU$1400000US24510010300,1330,1330,0,0,0
+1400000US24510010400,"Census Tract 104, Baltimore city, Maryland",1915,T1_HU$1400000US24510010400,1915,1915,0,0,0
+1400000US24510010500,"Census Tract 105, Baltimore city, Maryland",1008,T1_HU$1400000US24510010500,1008,1008,0,0,0
+1400000US24510020100,"Census Tract 201, Baltimore city, Maryland",1092,T1_HU$1400000US24510020100,1092,1092,0,0,0
+1400000US24510020200,"Census Tract 202, Baltimore city, Maryland",1076,null,1076,1076,0,0,0
+1400000US24510020300,"Census Tract 203, Baltimore city, Maryland",2529,T1_HU$1400000US24510020300,2529,2529,0,0,0
+1400000US24510030100,"Census Tract 301, Baltimore city, Maryland",1328,null,1328,1328,0,0,0
+1400000US24510030200,"Census Tract 302, Baltimore city, Maryland",1459,null,1459,1459,0,0,0
+1400000US24510040100,"Census Tract 401, Baltimore city, Maryland",3060,null,3060,3060,0,0,0
+1400000US24510040200,"Census Tract 402, Baltimore city, Maryland",455,T1_HU$1400000US24510040200,455,455,0,0,0
+1400000US24510060100,"Census Tract 601, Baltimore city, Maryland",1298,null,1298,1298,0,0,0
+1400000US24510060200,"Census Tract 602, Baltimore city, Maryland",1516,null,1516,1516,0,0,0
+1400000US24510060300,"Census Tract 603, Baltimore city, Maryland",934,null,934,934,0,0,0
+1400000US24510060400,"Census Tract 604, Baltimore city, Maryland",735,T1_HU$1400000US24510060400,735,735,0,0,0
+1400000US24510070100,"Census Tract 701, Baltimore city, Maryland",1098,null,1098,1098,0,0,0
+1400000US24510070200,"Census Tract 702, Baltimore city, Maryland",1583,null,1583,1583,0,0,0
+1400000US24510070300,"Census Tract 703, Baltimore city, Maryland",604,T1_HU$1400000US24510070300,604,604,0,0,0
+1400000US24510070400,"Census Tract 704, Baltimore city, Maryland",582,null,582,582,0,0,0
+1400000US24510080101,"Census Tract 801.01, Baltimore city, Maryland",1472,T1_HU$1400000US24510080101,1472,1472,0,0,0
+1400000US24510080102,"Census Tract 801.02, Baltimore city, Maryland",929,T1_HU$1400000US24510080102,929,929,0,0,0
+1400000US24510080200,"Census Tract 802, Baltimore city, Maryland",775,T1_HU$1400000US24510080200,775,775,0,0,0
+1400000US24510080301,"Census Tract 803.01, Baltimore city, Maryland",1033,null,1033,1033,0,0,0
+1400000US24510080302,"Census Tract 803.02, Baltimore city, Maryland",1326,T1_HU$1400000US24510080302,1326,1326,0,0,0
+1400000US24510080400,"Census Tract 804, Baltimore city, Maryland",810,T1_HU$1400000US24510080400,810,810,0,0,0
+1400000US24510080500,"Census Tract 805, Baltimore city, Maryland",735,null,735,735,0,0,0
+1400000US24510080600,"Census Tract 806, Baltimore city, Maryland",1407,null,1407,1407,0,0,0
+1400000US24510080700,"Census Tract 807, Baltimore city, Maryland",726,T1_HU$1400000US24510080700,726,726,0,0,0
+1400000US24510080800,"Census Tract 808, Baltimore city, Maryland",831,T1_HU$1400000US24510080800,831,831,0,0,0
+1400000US24510090100,"Census Tract 901, Baltimore city, Maryland",1883,null,1883,1883,0,0,0
+1400000US24510090200,"Census Tract 902, Baltimore city, Maryland",1279,null,1279,1279,0,0,0
+1400000US24510090300,"Census Tract 903, Baltimore city, Maryland",2111,T1_HU$1400000US24510090300,2111,2111,0,0,0
+1400000US24510090400,"Census Tract 904, Baltimore city, Maryland",803,null,803,803,0,0,0
+1400000US24510090500,"Census Tract 905, Baltimore city, Maryland",835,null,835,835,0,0,0
+1400000US24510090600,"Census Tract 906, Baltimore city, Maryland",1372,null,1372,1372,0,0,0
+1400000US24510090700,"Census Tract 907, Baltimore city, Maryland",1483,null,1483,1483,0,0,0
+1400000US24510090800,"Census Tract 908, Baltimore city, Maryland",1586,null,1586,1586,0,0,0
+1400000US24510090900,"Census Tract 909, Baltimore city, Maryland",1433,T1_HU$1400000US24510090900,1433,1433,0,0,0
+1400000US24510100100,"Census Tract 1001, Baltimore city, Maryland",1113,T1_HU$1400000US24510100100,1113,1113,0,0,0
+1400000US24510100200,"Census Tract 1002, Baltimore city, Maryland",1235,null,1235,1235,0,0,0
+1400000US24510100300,"Census Tract 1003, Baltimore city, Maryland",0,null,0,0,0,0,0
+1400000US24510110100,"Census Tract 1101, Baltimore city, Maryland",2488,T1_HU$1400000US24510110100,2488,2488,0,0,0
+1400000US24510110200,"Census Tract 1102, Baltimore city, Maryland",4143,T1_HU$1400000US24510110200,4143,4143,0,0,0
+1400000US24510120100,"Census Tract 1201, Baltimore city, Maryland",3000,T1_HU$1400000US24510120100,3000,3000,0,0,0
+1400000US24510120201,"Census Tract 1202.01, Baltimore city, Maryland",1090,null,1090,1090,0,0,0
+1400000US24510120202,"Census Tract 1202.02, Baltimore city, Maryland",2536,null,2536,2536,0,0,0
+1400000US24510120300,"Census Tract 1203, Baltimore city, Maryland",1986,null,1986,1986,0,0,0
+1400000US24510120400,"Census Tract 1204, Baltimore city, Maryland",955,null,955,955,0,0,0
+1400000US24510120500,"Census Tract 1205, Baltimore city, Maryland",1171,null,1171,1171,0,0,0
+1400000US24510120600,"Census Tract 1206, Baltimore city, Maryland",2037,null,2037,2037,0,0,0
+1400000US24510120700,"Census Tract 1207, Baltimore city, Maryland",1262,null,1262,1262,0,0,0
+1400000US24510130100,"Census Tract 1301, Baltimore city, Maryland",1784,null,1784,1784,0,0,0
+1400000US24510130200,"Census Tract 1302, Baltimore city, Maryland",1573,null,1573,1573,0,0,0
+1400000US24510130300,"Census Tract 1303, Baltimore city, Maryland",1378,T1_HU$1400000US24510130300,1378,1378,0,0,0
+1400000US24510130400,"Census Tract 1304, Baltimore city, Maryland",1131,null,1131,1131,0,0,0
+1400000US24510130600,"Census Tract 1306, Baltimore city, Maryland",1990,null,1990,1990,0,0,0
+1400000US24510130700,"Census Tract 1307, Baltimore city, Maryland",2895,null,2895,2895,0,0,0
+1400000US24510130803,"Census Tract 1308.03, Baltimore city, Maryland",1406,null,1406,1406,0,0,0
+1400000US24510130804,"Census Tract 1308.04, Baltimore city, Maryland",999,null,999,999,0,0,0
+1400000US24510130805,"Census Tract 1308.05, Baltimore city, Maryland",611,null,611,611,0,0,0
+1400000US24510130806,"Census Tract 1308.06, Baltimore city, Maryland",741,null,741,741,0,0,0
+1400000US24510140100,"Census Tract 1401, Baltimore city, Maryland",2883,T1_HU$1400000US24510140100,2883,2883,0,0,0
+1400000US24510140200,"Census Tract 1402, Baltimore city, Maryland",1432,T1_HU$1400000US24510140200,1432,1432,0,0,0
+1400000US24510140300,"Census Tract 1403, Baltimore city, Maryland",1583,T1_HU$1400000US24510140300,1583,1583,0,0,0
+1400000US24510150100,"Census Tract 1501, Baltimore city, Maryland",1480,null,1480,1480,0,0,0
+1400000US24510150200,"Census Tract 1502, Baltimore city, Maryland",1421,T1_HU$1400000US24510150200,1421,1421,0,0,0
+1400000US24510150300,"Census Tract 1503, Baltimore city, Maryland",1186,null,1186,1186,0,0,0
+1400000US24510150400,"Census Tract 1504, Baltimore city, Maryland",1637,T1_HU$1400000US24510150400,1637,1637,0,0,0
+1400000US24510150500,"Census Tract 1505, Baltimore city, Maryland",757,null,757,757,0,0,0
+1400000US24510150600,"Census Tract 1506, Baltimore city, Maryland",1560,null,1560,1560,0,0,0
+1400000US24510150701,"Census Tract 1507.01, Baltimore city, Maryland",816,T1_HU$1400000US24510150701,816,816,0,0,0
+1400000US24510150702,"Census Tract 1507.02, Baltimore city, Maryland",1088,null,1088,1088,0,0,0
+1400000US24510150800,"Census Tract 1508, Baltimore city, Maryland",2458,T1_HU$1400000US24510150800,2458,2458,0,0,0
+1400000US24510150900,"Census Tract 1509, Baltimore city, Maryland",1557,null,1557,1557,0,0,0
+1400000US24510151000,"Census Tract 1510, Baltimore city, Maryland",2339,null,2339,2339,0,0,0
+1400000US24510151100,"Census Tract 1511, Baltimore city, Maryland",2972,null,2972,2972,0,0,0
+1400000US24510151200,"Census Tract 1512, Baltimore city, Maryland",2045,T1_HU$1400000US24510151200,2045,2045,0,0,0
+1400000US24510151300,"Census Tract 1513, Baltimore city, Maryland",2042,T1_HU$1400000US24510151300,2042,2042,0,0,0
+1400000US24510160100,"Census Tract 1601, Baltimore city, Maryland",1556,T1_HU$1400000US24510160100,1556,1556,0,0,0
+1400000US24510160200,"Census Tract 1602, Baltimore city, Maryland",1343,T1_HU$1400000US24510160200,1343,1343,0,0,0
+1400000US24510160300,"Census Tract 1603, Baltimore city, Maryland",831,T1_HU$1400000US24510160300,831,831,0,0,0
+1400000US24510160400,"Census Tract 1604, Baltimore city, Maryland",1727,T1_HU$1400000US24510160400,1727,1727,0,0,0
+1400000US24510160500,"Census Tract 1605, Baltimore city, Maryland",1885,null,1885,1885,0,0,0
+1400000US24510160600,"Census Tract 1606, Baltimore city, Maryland",1749,null,1749,1749,0,0,0
+1400000US24510160700,"Census Tract 1607, Baltimore city, Maryland",2277,null,2277,2277,0,0,0
+1400000US24510160801,"Census Tract 1608.01, Baltimore city, Maryland",1356,null,1356,1356,0,0,0
+1400000US24510160802,"Census Tract 1608.02, Baltimore city, Maryland",1223,T1_HU$1400000US24510160802,1223,1223,0,0,0
+1400000US24510170100,"Census Tract 1701, Baltimore city, Maryland",965,null,965,965,0,0,0
+1400000US24510170200,"Census Tract 1702, Baltimore city, Maryland",1780,null,1780,1780,0,0,0
+1400000US24510170300,"Census Tract 1703, Baltimore city, Maryland",1244,T1_HU$1400000US24510170300,1244,1244,0,0,0
+1400000US24510180100,"Census Tract 1801, Baltimore city, Maryland",1082,T1_HU$1400000US24510180100,1082,1082,0,0,0
+1400000US24510180200,"Census Tract 1802, Baltimore city, Maryland",584,null,584,584,0,0,0
+1400000US24510180300,"Census Tract 1803, Baltimore city, Maryland",1189,null,1189,1189,0,0,0
+1400000US24510190100,"Census Tract 1901, Baltimore city, Maryland",1248,null,1248,1248,0,0,0
+1400000US24510190200,"Census Tract 1902, Baltimore city, Maryland",1165,T1_HU$1400000US24510190200,1165,1165,0,0,0
+1400000US24510190300,"Census Tract 1903, Baltimore city, Maryland",1376,T1_HU$1400000US24510190300,1376,1376,0,0,0
+1400000US24510200100,"Census Tract 2001, Baltimore city, Maryland",925,null,925,925,0,0,0
+1400000US24510200200,"Census Tract 2002, Baltimore city, Maryland",1442,T1_HU$1400000US24510200200,1442,1442,0,0,0
+1400000US24510200300,"Census Tract 2003, Baltimore city, Maryland",963,T1_HU$1400000US24510200300,963,963,0,0,0
+1400000US24510200400,"Census Tract 2004, Baltimore city, Maryland",931,null,931,931,0,0,0
+1400000US24510200500,"Census Tract 2005, Baltimore city, Maryland",1545,T1_HU$1400000US24510200500,1545,1545,0,0,0
+1400000US24510200600,"Census Tract 2006, Baltimore city, Maryland",1195,null,1195,1195,0,0,0
+1400000US24510200701,"Census Tract 2007.01, Baltimore city, Maryland",2046,null,2046,2046,0,0,0
+1400000US24510200702,"Census Tract 2007.02, Baltimore city, Maryland",588,null,588,588,0,0,0
+1400000US24510200800,"Census Tract 2008, Baltimore city, Maryland",1024,null,1024,1024,0,0,0
+1400000US24510210100,"Census Tract 2101, Baltimore city, Maryland",1233,null,1233,1233,0,0,0
+1400000US24510210200,"Census Tract 2102, Baltimore city, Maryland",1693,null,1693,1693,0,0,0
+1400000US24510220100,"Census Tract 2201, Baltimore city, Maryland",2725,T1_HU$1400000US24510220100,2725,2725,0,0,0
+1400000US24510230100,"Census Tract 2301, Baltimore city, Maryland",941,T1_HU$1400000US24510230100,941,941,0,0,0
+1400000US24510230200,"Census Tract 2302, Baltimore city, Maryland",1226,T1_HU$1400000US24510230200,1226,1226,0,0,0
+1400000US24510230300,"Census Tract 2303, Baltimore city, Maryland",616,null,616,616,0,0,0
+1400000US24510240100,"Census Tract 2401, Baltimore city, Maryland",1632,T1_HU$1400000US24510240100,1632,1632,0,0,0
+1400000US24510240200,"Census Tract 2402, Baltimore city, Maryland",1608,T1_HU$1400000US24510240200,1608,1608,0,0,0
+1400000US24510240300,"Census Tract 2403, Baltimore city, Maryland",1226,T1_HU$1400000US24510240300,1226,1226,0,0,0
+1400000US24510240400,"Census Tract 2404, Baltimore city, Maryland",1417,T1_HU$1400000US24510240400,1417,1417,0,0,0
+1400000US24510250101,"Census Tract 2501.01, Baltimore city, Maryland",1516,null,1516,1516,0,0,0
+1400000US24510250102,"Census Tract 2501.02, Baltimore city, Maryland",1294,null,1294,1294,0,0,0
+1400000US24510250103,"Census Tract 2501.03, Baltimore city, Maryland",1921,T1_HU$1400000US24510250103,1921,1921,0,0,0
+1400000US24510250203,"Census Tract 2502.03, Baltimore city, Maryland",855,T1_HU$1400000US24510250203,855,855,0,0,0
+1400000US24510250204,"Census Tract 2502.04, Baltimore city, Maryland",1592,T1_HU$1400000US24510250204,1592,1592,0,0,0
+1400000US24510250205,"Census Tract 2502.05, Baltimore city, Maryland",1791,T1_HU$1400000US24510250205,1791,1791,0,0,0
+1400000US24510250206,"Census Tract 2502.06, Baltimore city, Maryland",1087,null,1087,1087,0,0,0
+1400000US24510250207,"Census Tract 2502.07, Baltimore city, Maryland",937,null,937,937,0,0,0
+1400000US24510250301,"Census Tract 2503.01, Baltimore city, Maryland",1111,null,1111,1111,0,0,0
+1400000US24510250303,"Census Tract 2503.03, Baltimore city, Maryland",1059,null,1059,1059,0,0,0
+1400000US24510250401,"Census Tract 2504.01, Baltimore city, Maryland",1639,null,1639,1639,0,0,0
+1400000US24510250402,"Census Tract 2504.02, Baltimore city, Maryland",2162,null,2162,2162,0,0,0
+1400000US24510250500,"Census Tract 2505, Baltimore city, Maryland",2552,null,2552,2552,0,0,0
+1400000US24510250600,"Census Tract 2506, Baltimore city, Maryland",13,null,13,13,0,0,0
+1400000US24510260101,"Census Tract 2601.01, Baltimore city, Maryland",2070,T1_HU$1400000US24510260101,2070,2070,0,0,0
+1400000US24510260102,"Census Tract 2601.02, Baltimore city, Maryland",1956,null,1956,1956,0,0,0
+1400000US24510260201,"Census Tract 2602.01, Baltimore city, Maryland",2395,null,2395,2395,0,0,0
+1400000US24510260202,"Census Tract 2602.02, Baltimore city, Maryland",2767,null,2767,2767,0,0,0
+1400000US24510260203,"Census Tract 2602.03, Baltimore city, Maryland",1078,null,1078,1078,0,0,0
+1400000US24510260301,"Census Tract 2603.01, Baltimore city, Maryland",1908,T1_HU$1400000US24510260301,1908,1908,0,0,0
+1400000US24510260302,"Census Tract 2603.02, Baltimore city, Maryland",2589,T1_HU$1400000US24510260302,2589,2589,0,0,0
+1400000US24510260303,"Census Tract 2603.03, Baltimore city, Maryland",386,null,386,386,0,0,0
+1400000US24510260401,"Census Tract 2604.01, Baltimore city, Maryland",1431,null,1431,1431,0,0,0
+1400000US24510260402,"Census Tract 2604.02, Baltimore city, Maryland",1335,T1_HU$1400000US24510260402,1335,1335,0,0,0
+1400000US24510260403,"Census Tract 2604.03, Baltimore city, Maryland",754,null,754,754,0,0,0
+1400000US24510260404,"Census Tract 2604.04, Baltimore city, Maryland",812,null,812,812,0,0,0
+1400000US24510260501,"Census Tract 2605.01, Baltimore city, Maryland",2183,T1_HU$1400000US24510260501,2183,2183,0,0,0
+1400000US24510260604,"Census Tract 2606.04, Baltimore city, Maryland",573,T1_HU$1400000US24510260604,573,573,0,0,0
+1400000US24510260605,"Census Tract 2606.05, Baltimore city, Maryland",2078,T1_HU$1400000US24510260605,2078,2078,0,0,0
+1400000US24510260700,"Census Tract 2607, Baltimore city, Maryland",951,null,951,951,0,0,0
+1400000US24510260800,"Census Tract 2608, Baltimore city, Maryland",1206,null,1206,1206,0,0,0
+1400000US24510260900,"Census Tract 2609, Baltimore city, Maryland",1433,null,1433,1433,0,0,0
+1400000US24510261000,"Census Tract 2610, Baltimore city, Maryland",1370,null,1370,1370,0,0,0
+1400000US24510261100,"Census Tract 2611, Baltimore city, Maryland",1103,T1_HU$1400000US24510261100,1103,1103,0,0,0
+1400000US24510270101,"Census Tract 2701.01, Baltimore city, Maryland",718,null,718,718,0,0,0
+1400000US24510270102,"Census Tract 2701.02, Baltimore city, Maryland",1604,T1_HU$1400000US24510270102,1604,1604,0,0,0
+1400000US24510270200,"Census Tract 2702, Baltimore city, Maryland",817,null,817,817,0,0,0
+1400000US24510270301,"Census Tract 2703.01, Baltimore city, Maryland",1301,T1_HU$1400000US24510270301,1301,1301,0,0,0
+1400000US24510270302,"Census Tract 2703.02, Baltimore city, Maryland",786,null,786,786,0,0,0
+1400000US24510270401,"Census Tract 2704.01, Baltimore city, Maryland",2255,T1_HU$1400000US24510270401,2255,2255,0,0,0
+1400000US24510270402,"Census Tract 2704.02, Baltimore city, Maryland",1414,null,1414,1414,0,0,0
+1400000US24510270501,"Census Tract 2705.01, Baltimore city, Maryland",1900,T1_HU$1400000US24510270501,1900,1900,0,0,0
+1400000US24510270502,"Census Tract 2705.02, Baltimore city, Maryland",1982,T1_HU$1400000US24510270502,1982,1982,0,0,0
+1400000US24510270600,"Census Tract 2706, Baltimore city, Maryland",1986,T1_HU$1400000US24510270600,1986,1986,0,0,0
+1400000US24510270701,"Census Tract 2707.01, Baltimore city, Maryland",1239,null,1239,1239,0,0,0
+1400000US24510270702,"Census Tract 2707.02, Baltimore city, Maryland",1083,null,1083,1083,0,0,0
+1400000US24510270703,"Census Tract 2707.03, Baltimore city, Maryland",1334,T1_HU$1400000US24510270703,1334,1334,0,0,0
+1400000US24510270801,"Census Tract 2708.01, Baltimore city, Maryland",1743,T1_HU$1400000US24510270801,1743,1743,0,0,0
+1400000US24510270802,"Census Tract 2708.02, Baltimore city, Maryland",2231,T1_HU$1400000US24510270802,2231,2231,0,0,0
+1400000US24510270803,"Census Tract 2708.03, Baltimore city, Maryland",3051,null,3051,3051,0,0,0
+1400000US24510270804,"Census Tract 2708.04, Baltimore city, Maryland",1550,T1_HU$1400000US24510270804,1550,1550,0,0,0
+1400000US24510270805,"Census Tract 2708.05, Baltimore city, Maryland",2210,T1_HU$1400000US24510270805,2210,2210,0,0,0
+1400000US24510270901,"Census Tract 2709.01, Baltimore city, Maryland",1759,null,1759,1759,0,0,0
+1400000US24510270902,"Census Tract 2709.02, Baltimore city, Maryland",1484,T1_HU$1400000US24510270902,1484,1484,0,0,0
+1400000US24510270903,"Census Tract 2709.03, Baltimore city, Maryland",1411,T1_HU$1400000US24510270903,1411,1411,0,0,0
+1400000US24510271001,"Census Tract 2710.01, Baltimore city, Maryland",1051,null,1051,1051,0,0,0
+1400000US24510271002,"Census Tract 2710.02, Baltimore city, Maryland",1803,null,1803,1803,0,0,0
+1400000US24510271101,"Census Tract 2711.01, Baltimore city, Maryland",997,null,997,997,0,0,0
+1400000US24510271102,"Census Tract 2711.02, Baltimore city, Maryland",555,null,555,555,0,0,0
+1400000US24510271200,"Census Tract 2712, Baltimore city, Maryland",2469,null,2469,2469,0,0,0
+1400000US24510271300,"Census Tract 2713, Baltimore city, Maryland",1222,null,1222,1222,0,0,0
+1400000US24510271400,"Census Tract 2714, Baltimore city, Maryland",1760,null,1760,1760,0,0,0
+1400000US24510271501,"Census Tract 2715.01, Baltimore city, Maryland",1955,T1_HU$1400000US24510271501,1955,1955,0,0,0
+1400000US24510271503,"Census Tract 2715.03, Baltimore city, Maryland",729,null,729,729,0,0,0
+1400000US24510271600,"Census Tract 2716, Baltimore city, Maryland",1907,null,1907,1907,0,0,0
+1400000US24510271700,"Census Tract 2717, Baltimore city, Maryland",2533,T1_HU$1400000US24510271700,2533,2533,0,0,0
+1400000US24510271801,"Census Tract 2718.01, Baltimore city, Maryland",1564,T1_HU$1400000US24510271801,1564,1564,0,0,0
+1400000US24510271802,"Census Tract 2718.02, Baltimore city, Maryland",1389,null,1389,1389,0,0,0
+1400000US24510271900,"Census Tract 2719, Baltimore city, Maryland",1668,T1_HU$1400000US24510271900,1668,1668,0,0,0
+1400000US24510272003,"Census Tract 2720.03, Baltimore city, Maryland",2235,null,2235,2235,0,0,0
+1400000US24510272004,"Census Tract 2720.04, Baltimore city, Maryland",1966,null,1966,1966,0,0,0
+1400000US24510272005,"Census Tract 2720.05, Baltimore city, Maryland",1430,T1_HU$1400000US24510272005,1430,1430,0,0,0
+1400000US24510272006,"Census Tract 2720.06, Baltimore city, Maryland",1816,null,1816,1816,0,0,0
+1400000US24510272007,"Census Tract 2720.07, Baltimore city, Maryland",2034,null,2034,2034,0,0,0
+1400000US24510280101,"Census Tract 2801.01, Baltimore city, Maryland",1452,T1_HU$1400000US24510280101,1452,1452,0,0,0
+1400000US24510280102,"Census Tract 2801.02, Baltimore city, Maryland",2644,T1_HU$1400000US24510280102,2644,2644,0,0,0
+1400000US24510280200,"Census Tract 2802, Baltimore city, Maryland",2038,null,2038,2038,0,0,0
+1400000US24510280301,"Census Tract 2803.01, Baltimore city, Maryland",2035,null,2035,2035,0,0,0
+1400000US24510280302,"Census Tract 2803.02, Baltimore city, Maryland",1101,null,1101,1101,0,0,0
+1400000US24510280401,"Census Tract 2804.01, Baltimore city, Maryland",1632,null,1632,1632,0,0,0
+1400000US24510280402,"Census Tract 2804.02, Baltimore city, Maryland",676,null,676,676,0,0,0
+1400000US24510280403,"Census Tract 2804.03, Baltimore city, Maryland",2255,T1_HU$1400000US24510280403,2255,2255,0,0,0
+1400000US24510280404,"Census Tract 2804.04, Baltimore city, Maryland",880,null,880,880,0,0,0
+1400000US24510280500,"Census Tract 2805, Baltimore city, Maryland",1065,null,1065,1065,0,0,0
